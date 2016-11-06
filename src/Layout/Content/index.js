@@ -1,10 +1,10 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './Content.css';
 
-export default () => {
-    return (
-        <p className="App-intro">
-            To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
-    );
-};
+const Content = () => (
+    <p className="App-intro">
+        To get started, edit <code>src/App.js</code> and save to reload.
+    </p>
+);
+
+export default Content;

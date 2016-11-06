@@ -1,6 +1,6 @@
 import React from 'react';
-import Header from '.';
 import renderer from 'react-test-renderer';
+import Header from '.';
 
 describe('App Header', () => {
     it('looks how we want it to look', () => {

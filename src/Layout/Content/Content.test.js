@@ -1,6 +1,6 @@
 import React from 'react';
-import Content from '.';
 import renderer from 'react-test-renderer';
+import Content from '.';
 
 describe('App Content', () => {
     it('looks how we want it to look', () => {
