@@ -1,0 +1,1963 @@
+{
+    "Start": 50,
+    "Count": 25,
+    "ResultCount": 25,
+    "Results": [
+        {
+            "Links": {
+                "StatsMatchDetails": {
+                    "AuthorityId": "spartanstats",
+                    "Path": "h5/custom/matches/46e70f5b-c833-40d8-9163-1a9032c39537",
+                    "QueryString": null,
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                },
+                "UgcFilmManifest": {
+                    "AuthorityId": "ugc",
+                    "Path": "/h5/films/46e70f5b-c833-40d8-9163-1a9032c39537",
+                    "QueryString": "?view=film-manifest",
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                }
+            },
+            "Id": {
+                "MatchId": "46e70f5b-c833-40d8-9163-1a9032c39537",
+                "GameMode": 3
+            },
+            "HopperId": null,
+            "MapId": "d67fdcb9-6d9c-403e-960d-04202e19b244",
+            "MapVariant": {
+                "ResourceType": 3,
+                "ResourceId": "127e77b3-588d-4970-bc9e-ac94503a17aa",
+                "OwnerType": 1,
+                "Owner": "Nitroo"
+            },
+            "GameBaseVariantId": "257a305e-4dd3-41f1-9824-dfe7e8bd59e1",
+            "GameVariant": {
+                "ResourceType": 2,
+                "ResourceId": "08a2e1fd-45df-42d3-9369-7d6351019e17",
+                "OwnerType": 1,
+                "Owner": "Nitroo"
+            },
+            "MatchDuration": "PT3M0.5126352S",
+            "MatchCompletedDate": {
+                "ISO8601Date": "2016-10-14T00:00:00Z"
+            },
+            "Teams": [
+                {
+                    "Id": 0,
+                    "Score": 17,
+                    "Rank": 1
+                },
+                {
+                    "Id": 1,
+                    "Score": 17,
+                    "Rank": 2
+                }
+            ],
+            "Players": [
+                {
+                    "Player": {
+                        "Gamertag": "Ray Benefield",
+                        "Xuid": null
+                    },
+                    "TeamId": 0,
+                    "Rank": 1,
+                    "Result": 3,
+                    "TotalKills": 17,
+                    "TotalDeaths": 17,
+                    "TotalAssists": 0,
+                    "PreMatchRatings": null,
+                    "PostMatchRatings": null
+                }
+            ],
+            "IsTeamGame": true,
+            "SeasonId": null,
+            "MatchCompletedDateFidelity": 1
+        },
+        {
+            "Links": {
+                "StatsMatchDetails": {
+                    "AuthorityId": "spartanstats",
+                    "Path": "h5/custom/matches/d6bd0957-eece-4a42-8f5a-f2bc5723209a",
+                    "QueryString": null,
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                },
+                "UgcFilmManifest": {
+                    "AuthorityId": "ugc",
+                    "Path": "/h5/films/d6bd0957-eece-4a42-8f5a-f2bc5723209a",
+                    "QueryString": "?view=film-manifest",
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                }
+            },
+            "Id": {
+                "MatchId": "d6bd0957-eece-4a42-8f5a-f2bc5723209a",
+                "GameMode": 3
+            },
+            "HopperId": null,
+            "MapId": "d67fdcb9-6d9c-403e-960d-04202e19b244",
+            "MapVariant": {
+                "ResourceType": 3,
+                "ResourceId": "127e77b3-588d-4970-bc9e-ac94503a17aa",
+                "OwnerType": 1,
+                "Owner": "Nitroo"
+            },
+            "GameBaseVariantId": "257a305e-4dd3-41f1-9824-dfe7e8bd59e1",
+            "GameVariant": {
+                "ResourceType": 2,
+                "ResourceId": "08a2e1fd-45df-42d3-9369-7d6351019e17",
+                "OwnerType": 1,
+                "Owner": "Nitroo"
+            },
+            "MatchDuration": "PT13M31.0330022S",
+            "MatchCompletedDate": {
+                "ISO8601Date": "2016-10-11T00:00:00Z"
+            },
+            "Teams": [
+                {
+                    "Id": 0,
+                    "Score": 103,
+                    "Rank": 1
+                },
+                {
+                    "Id": 1,
+                    "Score": 56,
+                    "Rank": 2
+                }
+            ],
+            "Players": [
+                {
+                    "Player": {
+                        "Gamertag": "Ray Benefield",
+                        "Xuid": null
+                    },
+                    "TeamId": 1,
+                    "Rank": 3,
+                    "Result": 1,
+                    "TotalKills": 51,
+                    "TotalDeaths": 78,
+                    "TotalAssists": 4,
+                    "PreMatchRatings": null,
+                    "PostMatchRatings": null
+                }
+            ],
+            "IsTeamGame": true,
+            "SeasonId": null,
+            "MatchCompletedDateFidelity": 1
+        },
+        {
+            "Links": {
+                "StatsMatchDetails": {
+                    "AuthorityId": "spartanstats",
+                    "Path": "h5/custom/matches/3e9f9ac4-6523-4d52-b988-fee00e8863d7",
+                    "QueryString": null,
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                },
+                "UgcFilmManifest": {
+                    "AuthorityId": "ugc",
+                    "Path": "/h5/films/3e9f9ac4-6523-4d52-b988-fee00e8863d7",
+                    "QueryString": "?view=film-manifest",
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                }
+            },
+            "Id": {
+                "MatchId": "3e9f9ac4-6523-4d52-b988-fee00e8863d7",
+                "GameMode": 3
+            },
+            "HopperId": null,
+            "MapId": "d67fdcb9-6d9c-403e-960d-04202e19b244",
+            "MapVariant": {
+                "ResourceType": 3,
+                "ResourceId": "127e77b3-588d-4970-bc9e-ac94503a17aa",
+                "OwnerType": 1,
+                "Owner": "Nitroo"
+            },
+            "GameBaseVariantId": "257a305e-4dd3-41f1-9824-dfe7e8bd59e1",
+            "GameVariant": {
+                "ResourceType": 2,
+                "ResourceId": "08a2e1fd-45df-42d3-9369-7d6351019e17",
+                "OwnerType": 1,
+                "Owner": "Nitroo"
+            },
+            "MatchDuration": "PT13M36.8672869S",
+            "MatchCompletedDate": {
+                "ISO8601Date": "2016-10-11T00:00:00Z"
+            },
+            "Teams": [
+                {
+                    "Id": 1,
+                    "Score": 95,
+                    "Rank": 2
+                },
+                {
+                    "Id": 0,
+                    "Score": 110,
+                    "Rank": 1
+                }
+            ],
+            "Players": [
+                {
+                    "Player": {
+                        "Gamertag": "Ray Benefield",
+                        "Xuid": null
+                    },
+                    "TeamId": 1,
+                    "Rank": 3,
+                    "Result": 1,
+                    "TotalKills": 56,
+                    "TotalDeaths": 52,
+                    "TotalAssists": 19,
+                    "PreMatchRatings": null,
+                    "PostMatchRatings": null
+                }
+            ],
+            "IsTeamGame": true,
+            "SeasonId": null,
+            "MatchCompletedDateFidelity": 1
+        },
+        {
+            "Links": {
+                "StatsMatchDetails": {
+                    "AuthorityId": "spartanstats",
+                    "Path": "h5/custom/matches/b013d5ad-2fb7-4287-aefa-3c1fc090be3a",
+                    "QueryString": null,
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                },
+                "UgcFilmManifest": {
+                    "AuthorityId": "ugc",
+                    "Path": "/h5/films/b013d5ad-2fb7-4287-aefa-3c1fc090be3a",
+                    "QueryString": "?view=film-manifest",
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                }
+            },
+            "Id": {
+                "MatchId": "b013d5ad-2fb7-4287-aefa-3c1fc090be3a",
+                "GameMode": 3
+            },
+            "HopperId": null,
+            "MapId": "d67fdcb9-6d9c-403e-960d-04202e19b244",
+            "MapVariant": {
+                "ResourceType": 3,
+                "ResourceId": "127e77b3-588d-4970-bc9e-ac94503a17aa",
+                "OwnerType": 1,
+                "Owner": "Nitroo"
+            },
+            "GameBaseVariantId": "257a305e-4dd3-41f1-9824-dfe7e8bd59e1",
+            "GameVariant": {
+                "ResourceType": 2,
+                "ResourceId": "08a2e1fd-45df-42d3-9369-7d6351019e17",
+                "OwnerType": 1,
+                "Owner": "Nitroo"
+            },
+            "MatchDuration": "PT15M32.6615134S",
+            "MatchCompletedDate": {
+                "ISO8601Date": "2016-10-11T00:00:00Z"
+            },
+            "Teams": [
+                {
+                    "Id": 0,
+                    "Score": 124,
+                    "Rank": 1
+                },
+                {
+                    "Id": 1,
+                    "Score": 104,
+                    "Rank": 2
+                }
+            ],
+            "Players": [
+                {
+                    "Player": {
+                        "Gamertag": "Ray Benefield",
+                        "Xuid": null
+                    },
+                    "TeamId": 1,
+                    "Rank": 3,
+                    "Result": 1,
+                    "TotalKills": 66,
+                    "TotalDeaths": 59,
+                    "TotalAssists": 29,
+                    "PreMatchRatings": null,
+                    "PostMatchRatings": null
+                }
+            ],
+            "IsTeamGame": true,
+            "SeasonId": null,
+            "MatchCompletedDateFidelity": 1
+        },
+        {
+            "Links": {
+                "StatsMatchDetails": {
+                    "AuthorityId": "spartanstats",
+                    "Path": "h5/custom/matches/deb4a8ef-4e06-460c-82a5-f7797941330b",
+                    "QueryString": null,
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                },
+                "UgcFilmManifest": {
+                    "AuthorityId": "ugc",
+                    "Path": "/h5/films/deb4a8ef-4e06-460c-82a5-f7797941330b",
+                    "QueryString": "?view=film-manifest",
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                }
+            },
+            "Id": {
+                "MatchId": "deb4a8ef-4e06-460c-82a5-f7797941330b",
+                "GameMode": 3
+            },
+            "HopperId": null,
+            "MapId": "d67fdcb9-6d9c-403e-960d-04202e19b244",
+            "MapVariant": {
+                "ResourceType": 3,
+                "ResourceId": "127e77b3-588d-4970-bc9e-ac94503a17aa",
+                "OwnerType": 1,
+                "Owner": "Nitroo"
+            },
+            "GameBaseVariantId": "257a305e-4dd3-41f1-9824-dfe7e8bd59e1",
+            "GameVariant": {
+                "ResourceType": 2,
+                "ResourceId": "08a2e1fd-45df-42d3-9369-7d6351019e17",
+                "OwnerType": 1,
+                "Owner": "Nitroo"
+            },
+            "MatchDuration": "PT13M16.9840027S",
+            "MatchCompletedDate": {
+                "ISO8601Date": "2016-10-11T00:00:00Z"
+            },
+            "Teams": [
+                {
+                    "Id": 0,
+                    "Score": 111,
+                    "Rank": 1
+                },
+                {
+                    "Id": 1,
+                    "Score": 90,
+                    "Rank": 2
+                }
+            ],
+            "Players": [
+                {
+                    "Player": {
+                        "Gamertag": "Ray Benefield",
+                        "Xuid": null
+                    },
+                    "TeamId": 0,
+                    "Rank": 1,
+                    "Result": 3,
+                    "TotalKills": 56,
+                    "TotalDeaths": 44,
+                    "TotalAssists": 27,
+                    "PreMatchRatings": null,
+                    "PostMatchRatings": null
+                }
+            ],
+            "IsTeamGame": true,
+            "SeasonId": null,
+            "MatchCompletedDateFidelity": 1
+        },
+        {
+            "Links": {
+                "StatsMatchDetails": {
+                    "AuthorityId": "spartanstats",
+                    "Path": "h5/custom/matches/661ce863-7caa-424a-80f9-da5b0d66d217",
+                    "QueryString": null,
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                },
+                "UgcFilmManifest": {
+                    "AuthorityId": "ugc",
+                    "Path": "/h5/films/661ce863-7caa-424a-80f9-da5b0d66d217",
+                    "QueryString": "?view=film-manifest",
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                }
+            },
+            "Id": {
+                "MatchId": "661ce863-7caa-424a-80f9-da5b0d66d217",
+                "GameMode": 3
+            },
+            "HopperId": null,
+            "MapId": "d67fdcb9-6d9c-403e-960d-04202e19b244",
+            "MapVariant": {
+                "ResourceType": 3,
+                "ResourceId": "127e77b3-588d-4970-bc9e-ac94503a17aa",
+                "OwnerType": 1,
+                "Owner": "Nitroo"
+            },
+            "GameBaseVariantId": "257a305e-4dd3-41f1-9824-dfe7e8bd59e1",
+            "GameVariant": {
+                "ResourceType": 2,
+                "ResourceId": "08a2e1fd-45df-42d3-9369-7d6351019e17",
+                "OwnerType": 1,
+                "Owner": "Nitroo"
+            },
+            "MatchDuration": "PT3M59.1489662S",
+            "MatchCompletedDate": {
+                "ISO8601Date": "2016-09-30T00:00:00Z"
+            },
+            "Teams": [
+                {
+                    "Id": 1,
+                    "Score": 13,
+                    "Rank": 1
+                },
+                {
+                    "Id": 0,
+                    "Score": 2,
+                    "Rank": 2
+                }
+            ],
+            "Players": [
+                {
+                    "Player": {
+                        "Gamertag": "Ray Benefield",
+                        "Xuid": null
+                    },
+                    "TeamId": 0,
+                    "Rank": 2,
+                    "Result": 1,
+                    "TotalKills": 2,
+                    "TotalDeaths": 13,
+                    "TotalAssists": 0,
+                    "PreMatchRatings": null,
+                    "PostMatchRatings": null
+                }
+            ],
+            "IsTeamGame": true,
+            "SeasonId": null,
+            "MatchCompletedDateFidelity": 1
+        },
+        {
+            "Links": {
+                "StatsMatchDetails": {
+                    "AuthorityId": "spartanstats",
+                    "Path": "h5/custom/matches/fae43cdf-65d6-4b4a-ae7a-0317bb0360f7",
+                    "QueryString": null,
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                },
+                "UgcFilmManifest": {
+                    "AuthorityId": "ugc",
+                    "Path": "/h5/films/fae43cdf-65d6-4b4a-ae7a-0317bb0360f7",
+                    "QueryString": "?view=film-manifest",
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                }
+            },
+            "Id": {
+                "MatchId": "fae43cdf-65d6-4b4a-ae7a-0317bb0360f7",
+                "GameMode": 3
+            },
+            "HopperId": null,
+            "MapId": "d67fdcb9-6d9c-403e-960d-04202e19b244",
+            "MapVariant": {
+                "ResourceType": 3,
+                "ResourceId": "127e77b3-588d-4970-bc9e-ac94503a17aa",
+                "OwnerType": 1,
+                "Owner": "Nitroo"
+            },
+            "GameBaseVariantId": "257a305e-4dd3-41f1-9824-dfe7e8bd59e1",
+            "GameVariant": {
+                "ResourceType": 2,
+                "ResourceId": "08a2e1fd-45df-42d3-9369-7d6351019e17",
+                "OwnerType": 1,
+                "Owner": "Nitroo"
+            },
+            "MatchDuration": "PT5M29.6650605S",
+            "MatchCompletedDate": {
+                "ISO8601Date": "2016-09-30T00:00:00Z"
+            },
+            "Teams": [
+                {
+                    "Id": 0,
+                    "Score": 15,
+                    "Rank": 2
+                },
+                {
+                    "Id": 1,
+                    "Score": 19,
+                    "Rank": 1
+                }
+            ],
+            "Players": [
+                {
+                    "Player": {
+                        "Gamertag": "Ray Benefield",
+                        "Xuid": null
+                    },
+                    "TeamId": 0,
+                    "Rank": 2,
+                    "Result": 0,
+                    "TotalKills": 15,
+                    "TotalDeaths": 19,
+                    "TotalAssists": 0,
+                    "PreMatchRatings": null,
+                    "PostMatchRatings": null
+                }
+            ],
+            "IsTeamGame": true,
+            "SeasonId": null,
+            "MatchCompletedDateFidelity": 1
+        },
+        {
+            "Links": {
+                "StatsMatchDetails": {
+                    "AuthorityId": "spartanstats",
+                    "Path": "h5/custom/matches/91e1e8e8-0a9c-4167-aa9e-a46a10c3d906",
+                    "QueryString": null,
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                },
+                "UgcFilmManifest": {
+                    "AuthorityId": "ugc",
+                    "Path": "/h5/films/91e1e8e8-0a9c-4167-aa9e-a46a10c3d906",
+                    "QueryString": "?view=film-manifest",
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                }
+            },
+            "Id": {
+                "MatchId": "91e1e8e8-0a9c-4167-aa9e-a46a10c3d906",
+                "GameMode": 3
+            },
+            "HopperId": null,
+            "MapId": "d67fdcb9-6d9c-403e-960d-04202e19b244",
+            "MapVariant": {
+                "ResourceType": 3,
+                "ResourceId": "127e77b3-588d-4970-bc9e-ac94503a17aa",
+                "OwnerType": 1,
+                "Owner": "Nitroo"
+            },
+            "GameBaseVariantId": "257a305e-4dd3-41f1-9824-dfe7e8bd59e1",
+            "GameVariant": {
+                "ResourceType": 2,
+                "ResourceId": "08a2e1fd-45df-42d3-9369-7d6351019e17",
+                "OwnerType": 1,
+                "Owner": "Nitroo"
+            },
+            "MatchDuration": "PT2M25.0796347S",
+            "MatchCompletedDate": {
+                "ISO8601Date": "2016-09-30T00:00:00Z"
+            },
+            "Teams": [
+                {
+                    "Id": 1,
+                    "Score": 12,
+                    "Rank": 2
+                },
+                {
+                    "Id": 0,
+                    "Score": 19,
+                    "Rank": 1
+                }
+            ],
+            "Players": [
+                {
+                    "Player": {
+                        "Gamertag": "Ray Benefield",
+                        "Xuid": null
+                    },
+                    "TeamId": 0,
+                    "Rank": 1,
+                    "Result": 3,
+                    "TotalKills": 19,
+                    "TotalDeaths": 12,
+                    "TotalAssists": 0,
+                    "PreMatchRatings": null,
+                    "PostMatchRatings": null
+                }
+            ],
+            "IsTeamGame": true,
+            "SeasonId": null,
+            "MatchCompletedDateFidelity": 1
+        },
+        {
+            "Links": {
+                "StatsMatchDetails": {
+                    "AuthorityId": "spartanstats",
+                    "Path": "h5/custom/matches/92e86303-b256-4de5-a9a5-bd074bba4689",
+                    "QueryString": null,
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                },
+                "UgcFilmManifest": {
+                    "AuthorityId": "ugc",
+                    "Path": "/h5/films/92e86303-b256-4de5-a9a5-bd074bba4689",
+                    "QueryString": "?view=film-manifest",
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                }
+            },
+            "Id": {
+                "MatchId": "92e86303-b256-4de5-a9a5-bd074bba4689",
+                "GameMode": 3
+            },
+            "HopperId": null,
+            "MapId": "d67fdcb9-6d9c-403e-960d-04202e19b244",
+            "MapVariant": {
+                "ResourceType": 3,
+                "ResourceId": "127e77b3-588d-4970-bc9e-ac94503a17aa",
+                "OwnerType": 1,
+                "Owner": "Nitroo"
+            },
+            "GameBaseVariantId": "257a305e-4dd3-41f1-9824-dfe7e8bd59e1",
+            "GameVariant": {
+                "ResourceType": 2,
+                "ResourceId": "08a2e1fd-45df-42d3-9369-7d6351019e17",
+                "OwnerType": 1,
+                "Owner": "Nitroo"
+            },
+            "MatchDuration": "PT3M31.4092041S",
+            "MatchCompletedDate": {
+                "ISO8601Date": "2016-09-30T00:00:00Z"
+            },
+            "Teams": [
+                {
+                    "Id": 0,
+                    "Score": 21,
+                    "Rank": 1
+                },
+                {
+                    "Id": 1,
+                    "Score": 12,
+                    "Rank": 2
+                }
+            ],
+            "Players": [
+                {
+                    "Player": {
+                        "Gamertag": "Ray Benefield",
+                        "Xuid": null
+                    },
+                    "TeamId": 0,
+                    "Rank": 1,
+                    "Result": 3,
+                    "TotalKills": 21,
+                    "TotalDeaths": 12,
+                    "TotalAssists": 0,
+                    "PreMatchRatings": null,
+                    "PostMatchRatings": null
+                }
+            ],
+            "IsTeamGame": true,
+            "SeasonId": null,
+            "MatchCompletedDateFidelity": 1
+        },
+        {
+            "Links": {
+                "StatsMatchDetails": {
+                    "AuthorityId": "spartanstats",
+                    "Path": "h5/custom/matches/76e049fd-a457-4298-8735-dea4e7477506",
+                    "QueryString": null,
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                },
+                "UgcFilmManifest": {
+                    "AuthorityId": "ugc",
+                    "Path": "/h5/films/76e049fd-a457-4298-8735-dea4e7477506",
+                    "QueryString": "?view=film-manifest",
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                }
+            },
+            "Id": {
+                "MatchId": "76e049fd-a457-4298-8735-dea4e7477506",
+                "GameMode": 3
+            },
+            "HopperId": null,
+            "MapId": "d67fdcb9-6d9c-403e-960d-04202e19b244",
+            "MapVariant": {
+                "ResourceType": 3,
+                "ResourceId": "127e77b3-588d-4970-bc9e-ac94503a17aa",
+                "OwnerType": 1,
+                "Owner": "Nitroo"
+            },
+            "GameBaseVariantId": "257a305e-4dd3-41f1-9824-dfe7e8bd59e1",
+            "GameVariant": {
+                "ResourceType": 2,
+                "ResourceId": "4b35f567-7671-4788-81c9-3e22b2dce6ca",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "MatchDuration": "PT32.6089271S",
+            "MatchCompletedDate": {
+                "ISO8601Date": "2016-09-30T00:00:00Z"
+            },
+            "Teams": [
+                {
+                    "Id": 0,
+                    "Score": 0,
+                    "Rank": 2
+                },
+                {
+                    "Id": 1,
+                    "Score": 1,
+                    "Rank": 1
+                }
+            ],
+            "Players": [
+                {
+                    "Player": {
+                        "Gamertag": "Ray Benefield",
+                        "Xuid": null
+                    },
+                    "TeamId": 0,
+                    "Rank": 2,
+                    "Result": 1,
+                    "TotalKills": 0,
+                    "TotalDeaths": 1,
+                    "TotalAssists": 0,
+                    "PreMatchRatings": null,
+                    "PostMatchRatings": null
+                }
+            ],
+            "IsTeamGame": true,
+            "SeasonId": null,
+            "MatchCompletedDateFidelity": 1
+        },
+        {
+            "Links": {
+                "StatsMatchDetails": {
+                    "AuthorityId": "spartanstats",
+                    "Path": "h5/custom/matches/c1225d13-7e84-40f3-a6d8-8d39d89f57ec",
+                    "QueryString": null,
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                },
+                "UgcFilmManifest": {
+                    "AuthorityId": "ugc",
+                    "Path": "/h5/films/c1225d13-7e84-40f3-a6d8-8d39d89f57ec",
+                    "QueryString": "?view=film-manifest",
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                }
+            },
+            "Id": {
+                "MatchId": "c1225d13-7e84-40f3-a6d8-8d39d89f57ec",
+                "GameMode": 3
+            },
+            "HopperId": null,
+            "MapId": "c7edbf0f-f206-11e4-aa52-24be05e24f7e",
+            "MapVariant": {
+                "ResourceType": 3,
+                "ResourceId": "df61ba01-f578-4611-af50-be376c8bee13",
+                "OwnerType": 1,
+                "Owner": "l38151337"
+            },
+            "GameBaseVariantId": "1e473914-46e4-408d-af26-178fb115de76",
+            "GameVariant": {
+                "ResourceType": 2,
+                "ResourceId": "c5470c94-261e-4902-b7ba-9c6ef975d5ab",
+                "OwnerType": 3,
+                "Owner": ""
+            },
+            "MatchDuration": "PT6M30.0744988S",
+            "MatchCompletedDate": {
+                "ISO8601Date": "2016-09-30T00:00:00Z"
+            },
+            "Teams": [
+                {
+                    "Id": 1,
+                    "Score": 4,
+                    "Rank": 2
+                },
+                {
+                    "Id": 0,
+                    "Score": 7,
+                    "Rank": 1
+                }
+            ],
+            "Players": [
+                {
+                    "Player": {
+                        "Gamertag": "Ray Benefield",
+                        "Xuid": null
+                    },
+                    "TeamId": 0,
+                    "Rank": 4,
+                    "Result": 3,
+                    "TotalKills": 1,
+                    "TotalDeaths": 5,
+                    "TotalAssists": 0,
+                    "PreMatchRatings": null,
+                    "PostMatchRatings": null
+                }
+            ],
+            "IsTeamGame": true,
+            "SeasonId": null,
+            "MatchCompletedDateFidelity": 1
+        },
+        {
+            "Links": {
+                "StatsMatchDetails": {
+                    "AuthorityId": "spartanstats",
+                    "Path": "h5/custom/matches/895a77c4-f77a-4b52-8554-89408747b9c2",
+                    "QueryString": null,
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                },
+                "UgcFilmManifest": {
+                    "AuthorityId": "ugc",
+                    "Path": "/h5/films/895a77c4-f77a-4b52-8554-89408747b9c2",
+                    "QueryString": "?view=film-manifest",
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                }
+            },
+            "Id": {
+                "MatchId": "895a77c4-f77a-4b52-8554-89408747b9c2",
+                "GameMode": 3
+            },
+            "HopperId": null,
+            "MapId": "c7edbf0f-f206-11e4-aa52-24be05e24f7e",
+            "MapVariant": {
+                "ResourceType": 3,
+                "ResourceId": "34d973dd-9a68-4398-915a-77b380e4ab3a",
+                "OwnerType": 1,
+                "Owner": "LYNX Bobcat CF"
+            },
+            "GameBaseVariantId": "1e473914-46e4-408d-af26-178fb115de76",
+            "GameVariant": {
+                "ResourceType": 2,
+                "ResourceId": "c8b40fba-7365-47a5-bf1d-a74477be66b2",
+                "OwnerType": 3,
+                "Owner": ""
+            },
+            "MatchDuration": "PT6M28.6161553S",
+            "MatchCompletedDate": {
+                "ISO8601Date": "2016-09-30T00:00:00Z"
+            },
+            "Teams": [
+                {
+                    "Id": 0,
+                    "Score": 7,
+                    "Rank": 2
+                },
+                {
+                    "Id": 1,
+                    "Score": 9,
+                    "Rank": 1
+                }
+            ],
+            "Players": [
+                {
+                    "Player": {
+                        "Gamertag": "Ray Benefield",
+                        "Xuid": null
+                    },
+                    "TeamId": 1,
+                    "Rank": 2,
+                    "Result": 3,
+                    "TotalKills": 2,
+                    "TotalDeaths": 4,
+                    "TotalAssists": 4,
+                    "PreMatchRatings": null,
+                    "PostMatchRatings": null
+                }
+            ],
+            "IsTeamGame": true,
+            "SeasonId": null,
+            "MatchCompletedDateFidelity": 1
+        },
+        {
+            "Links": {
+                "StatsMatchDetails": {
+                    "AuthorityId": "spartanstats",
+                    "Path": "h5/custom/matches/3565b22f-0852-46bc-9f6b-29d50b744852",
+                    "QueryString": null,
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                },
+                "UgcFilmManifest": {
+                    "AuthorityId": "ugc",
+                    "Path": "/h5/films/3565b22f-0852-46bc-9f6b-29d50b744852",
+                    "QueryString": "?view=film-manifest",
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                }
+            },
+            "Id": {
+                "MatchId": "3565b22f-0852-46bc-9f6b-29d50b744852",
+                "GameMode": 3
+            },
+            "HopperId": null,
+            "MapId": "c7edbf0f-f206-11e4-aa52-24be05e24f7e",
+            "MapVariant": {
+                "ResourceType": 3,
+                "ResourceId": "b83374a4-53c3-4623-b28f-57cf4c874220",
+                "OwnerType": 1,
+                "Owner": "LYNX Bobcat CF"
+            },
+            "GameBaseVariantId": "1e473914-46e4-408d-af26-178fb115de76",
+            "GameVariant": {
+                "ResourceType": 2,
+                "ResourceId": "c8b40fba-7365-47a5-bf1d-a74477be66b2",
+                "OwnerType": 3,
+                "Owner": ""
+            },
+            "MatchDuration": "PT2M27.9159632S",
+            "MatchCompletedDate": {
+                "ISO8601Date": "2016-09-30T00:00:00Z"
+            },
+            "Teams": [
+                {
+                    "Id": 0,
+                    "Score": 4,
+                    "Rank": 1
+                },
+                {
+                    "Id": 1,
+                    "Score": 4,
+                    "Rank": 1
+                }
+            ],
+            "Players": [
+                {
+                    "Player": {
+                        "Gamertag": "Ray Benefield",
+                        "Xuid": null
+                    },
+                    "TeamId": 1,
+                    "Rank": 1,
+                    "Result": 2,
+                    "TotalKills": 0,
+                    "TotalDeaths": 0,
+                    "TotalAssists": 0,
+                    "PreMatchRatings": null,
+                    "PostMatchRatings": null
+                }
+            ],
+            "IsTeamGame": true,
+            "SeasonId": null,
+            "MatchCompletedDateFidelity": 1
+        },
+        {
+            "Links": {
+                "StatsMatchDetails": {
+                    "AuthorityId": "spartanstats",
+                    "Path": "h5/custom/matches/d40147ef-e2c9-426b-a7ea-183c9d507c39",
+                    "QueryString": null,
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                },
+                "UgcFilmManifest": {
+                    "AuthorityId": "ugc",
+                    "Path": "/h5/films/d40147ef-e2c9-426b-a7ea-183c9d507c39",
+                    "QueryString": "?view=film-manifest",
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                }
+            },
+            "Id": {
+                "MatchId": "d40147ef-e2c9-426b-a7ea-183c9d507c39",
+                "GameMode": 3
+            },
+            "HopperId": null,
+            "MapId": "c7b7baf0-f206-11e4-ae9a-24be05e24f7e",
+            "MapVariant": {
+                "ResourceType": 3,
+                "ResourceId": "ef8a68a7-a5d9-4ea0-b332-9e8f4f8d3200",
+                "OwnerType": 1,
+                "Owner": "Whos Blaze"
+            },
+            "GameBaseVariantId": "1e473914-46e4-408d-af26-178fb115de76",
+            "GameVariant": {
+                "ResourceType": 2,
+                "ResourceId": "c8b40fba-7365-47a5-bf1d-a74477be66b2",
+                "OwnerType": 3,
+                "Owner": ""
+            },
+            "MatchDuration": "PT6M42.4388343S",
+            "MatchCompletedDate": {
+                "ISO8601Date": "2016-09-30T00:00:00Z"
+            },
+            "Teams": [
+                {
+                    "Id": 0,
+                    "Score": 10,
+                    "Rank": 1
+                },
+                {
+                    "Id": 1,
+                    "Score": 2,
+                    "Rank": 2
+                }
+            ],
+            "Players": [
+                {
+                    "Player": {
+                        "Gamertag": "Ray Benefield",
+                        "Xuid": null
+                    },
+                    "TeamId": 1,
+                    "Rank": 6,
+                    "Result": 1,
+                    "TotalKills": 4,
+                    "TotalDeaths": 4,
+                    "TotalAssists": 1,
+                    "PreMatchRatings": null,
+                    "PostMatchRatings": null
+                }
+            ],
+            "IsTeamGame": true,
+            "SeasonId": null,
+            "MatchCompletedDateFidelity": 1
+        },
+        {
+            "Links": {
+                "StatsMatchDetails": {
+                    "AuthorityId": "spartanstats",
+                    "Path": "h5/custom/matches/8833a591-a05d-4fbf-bed8-6ec6dd14e2c5",
+                    "QueryString": null,
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                },
+                "UgcFilmManifest": {
+                    "AuthorityId": "ugc",
+                    "Path": "/h5/films/8833a591-a05d-4fbf-bed8-6ec6dd14e2c5",
+                    "QueryString": "?view=film-manifest",
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                }
+            },
+            "Id": {
+                "MatchId": "8833a591-a05d-4fbf-bed8-6ec6dd14e2c5",
+                "GameMode": 3
+            },
+            "HopperId": null,
+            "MapId": "c7b7baf0-f206-11e4-ae9a-24be05e24f7e",
+            "MapVariant": {
+                "ResourceType": 3,
+                "ResourceId": "ef8a68a7-a5d9-4ea0-b332-9e8f4f8d3200",
+                "OwnerType": 1,
+                "Owner": "Whos Blaze"
+            },
+            "GameBaseVariantId": "1e473914-46e4-408d-af26-178fb115de76",
+            "GameVariant": {
+                "ResourceType": 2,
+                "ResourceId": "c5470c94-261e-4902-b7ba-9c6ef975d5ab",
+                "OwnerType": 3,
+                "Owner": ""
+            },
+            "MatchDuration": "PT2M43.8722674S",
+            "MatchCompletedDate": {
+                "ISO8601Date": "2016-09-30T00:00:00Z"
+            },
+            "Teams": [
+                {
+                    "Id": 0,
+                    "Score": 2,
+                    "Rank": 2
+                },
+                {
+                    "Id": 1,
+                    "Score": 4,
+                    "Rank": 1
+                }
+            ],
+            "Players": [
+                {
+                    "Player": {
+                        "Gamertag": "Ray Benefield",
+                        "Xuid": null
+                    },
+                    "TeamId": 1,
+                    "Rank": 4,
+                    "Result": 3,
+                    "TotalKills": 0,
+                    "TotalDeaths": 1,
+                    "TotalAssists": 0,
+                    "PreMatchRatings": null,
+                    "PostMatchRatings": null
+                }
+            ],
+            "IsTeamGame": true,
+            "SeasonId": null,
+            "MatchCompletedDateFidelity": 1
+        },
+        {
+            "Links": {
+                "StatsMatchDetails": {
+                    "AuthorityId": "spartanstats",
+                    "Path": "h5/custom/matches/1786107a-4f00-4782-b222-ccf05e794732",
+                    "QueryString": null,
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                },
+                "UgcFilmManifest": {
+                    "AuthorityId": "ugc",
+                    "Path": "/h5/films/1786107a-4f00-4782-b222-ccf05e794732",
+                    "QueryString": "?view=film-manifest",
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                }
+            },
+            "Id": {
+                "MatchId": "1786107a-4f00-4782-b222-ccf05e794732",
+                "GameMode": 3
+            },
+            "HopperId": null,
+            "MapId": "c7edbf0f-f206-11e4-aa52-24be05e24f7e",
+            "MapVariant": {
+                "ResourceType": 3,
+                "ResourceId": "27f62f1a-7dc3-4577-841c-920ea8270a08",
+                "OwnerType": 1,
+                "Owner": "Spine Crush3r"
+            },
+            "GameBaseVariantId": "1e473914-46e4-408d-af26-178fb115de76",
+            "GameVariant": {
+                "ResourceType": 2,
+                "ResourceId": "c5470c94-261e-4902-b7ba-9c6ef975d5ab",
+                "OwnerType": 3,
+                "Owner": ""
+            },
+            "MatchDuration": "PT8M45.2901074S",
+            "MatchCompletedDate": {
+                "ISO8601Date": "2016-09-30T00:00:00Z"
+            },
+            "Teams": [
+                {
+                    "Id": 0,
+                    "Score": 8,
+                    "Rank": 1
+                },
+                {
+                    "Id": 1,
+                    "Score": 7,
+                    "Rank": 2
+                }
+            ],
+            "Players": [
+                {
+                    "Player": {
+                        "Gamertag": "Ray Benefield",
+                        "Xuid": null
+                    },
+                    "TeamId": 1,
+                    "Rank": 5,
+                    "Result": 1,
+                    "TotalKills": 6,
+                    "TotalDeaths": 8,
+                    "TotalAssists": 0,
+                    "PreMatchRatings": null,
+                    "PostMatchRatings": null
+                }
+            ],
+            "IsTeamGame": true,
+            "SeasonId": null,
+            "MatchCompletedDateFidelity": 1
+        },
+        {
+            "Links": {
+                "StatsMatchDetails": {
+                    "AuthorityId": "spartanstats",
+                    "Path": "h5/custom/matches/605d3093-ff83-49ad-b2ff-d04a09e87406",
+                    "QueryString": null,
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                },
+                "UgcFilmManifest": {
+                    "AuthorityId": "ugc",
+                    "Path": "/h5/films/605d3093-ff83-49ad-b2ff-d04a09e87406",
+                    "QueryString": "?view=film-manifest",
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                }
+            },
+            "Id": {
+                "MatchId": "605d3093-ff83-49ad-b2ff-d04a09e87406",
+                "GameMode": 3
+            },
+            "HopperId": null,
+            "MapId": "c7edbf0f-f206-11e4-aa52-24be05e24f7e",
+            "MapVariant": {
+                "ResourceType": 3,
+                "ResourceId": "6035873e-3555-4a9b-98f0-5dc75e11fd3c",
+                "OwnerType": 1,
+                "Owner": "xMalevolution"
+            },
+            "GameBaseVariantId": "1e473914-46e4-408d-af26-178fb115de76",
+            "GameVariant": {
+                "ResourceType": 2,
+                "ResourceId": "c5470c94-261e-4902-b7ba-9c6ef975d5ab",
+                "OwnerType": 3,
+                "Owner": ""
+            },
+            "MatchDuration": "PT10M8.0371053S",
+            "MatchCompletedDate": {
+                "ISO8601Date": "2016-09-30T00:00:00Z"
+            },
+            "Teams": [
+                {
+                    "Id": 0,
+                    "Score": 9,
+                    "Rank": 1
+                },
+                {
+                    "Id": 1,
+                    "Score": 6,
+                    "Rank": 2
+                }
+            ],
+            "Players": [
+                {
+                    "Player": {
+                        "Gamertag": "Ray Benefield",
+                        "Xuid": null
+                    },
+                    "TeamId": 1,
+                    "Rank": 7,
+                    "Result": 1,
+                    "TotalKills": 3,
+                    "TotalDeaths": 5,
+                    "TotalAssists": 1,
+                    "PreMatchRatings": null,
+                    "PostMatchRatings": null
+                }
+            ],
+            "IsTeamGame": true,
+            "SeasonId": null,
+            "MatchCompletedDateFidelity": 1
+        },
+        {
+            "Links": {
+                "StatsMatchDetails": {
+                    "AuthorityId": "spartanstats",
+                    "Path": "h5/custom/matches/a4914664-9b87-4377-81c5-bdc658b2f333",
+                    "QueryString": null,
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                },
+                "UgcFilmManifest": {
+                    "AuthorityId": "ugc",
+                    "Path": "/h5/films/a4914664-9b87-4377-81c5-bdc658b2f333",
+                    "QueryString": "?view=film-manifest",
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                }
+            },
+            "Id": {
+                "MatchId": "a4914664-9b87-4377-81c5-bdc658b2f333",
+                "GameMode": 3
+            },
+            "HopperId": null,
+            "MapId": "c74c9d0f-f206-11e4-8330-24be05e24f7e",
+            "MapVariant": {
+                "ResourceType": 3,
+                "ResourceId": "135c572e-365d-465e-ae7a-2eb3552a1e53",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "GameBaseVariantId": "257a305e-4dd3-41f1-9824-dfe7e8bd59e1",
+            "GameVariant": {
+                "ResourceType": 2,
+                "ResourceId": "cec5816e-1896-48f5-9a60-f8ae497e13b6",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "MatchDuration": "PT10M30.554179S",
+            "MatchCompletedDate": {
+                "ISO8601Date": "2016-09-25T00:00:00Z"
+            },
+            "Teams": [
+                {
+                    "Id": 0,
+                    "Score": 22,
+                    "Rank": 2
+                },
+                {
+                    "Id": 1,
+                    "Score": 22,
+                    "Rank": 2
+                },
+                {
+                    "Id": 2,
+                    "Score": 18,
+                    "Rank": 4
+                },
+                {
+                    "Id": 3,
+                    "Score": 17,
+                    "Rank": 5
+                },
+                {
+                    "Id": 4,
+                    "Score": 28,
+                    "Rank": 1
+                }
+            ],
+            "Players": [
+                {
+                    "Player": {
+                        "Gamertag": "Ray Benefield",
+                        "Xuid": null
+                    },
+                    "TeamId": 0,
+                    "Rank": 2,
+                    "Result": 1,
+                    "TotalKills": 22,
+                    "TotalDeaths": 16,
+                    "TotalAssists": 7,
+                    "PreMatchRatings": null,
+                    "PostMatchRatings": null
+                }
+            ],
+            "IsTeamGame": false,
+            "SeasonId": null,
+            "MatchCompletedDateFidelity": 1
+        },
+        {
+            "Links": {
+                "StatsMatchDetails": {
+                    "AuthorityId": "spartanstats",
+                    "Path": "h5/custom/matches/2be875d1-d000-4c18-b9df-583e627fda47",
+                    "QueryString": null,
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                },
+                "UgcFilmManifest": {
+                    "AuthorityId": "ugc",
+                    "Path": "/h5/films/2be875d1-d000-4c18-b9df-583e627fda47",
+                    "QueryString": "?view=film-manifest",
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                }
+            },
+            "Id": {
+                "MatchId": "2be875d1-d000-4c18-b9df-583e627fda47",
+                "GameMode": 3
+            },
+            "HopperId": null,
+            "MapId": "d67fdcb9-6d9c-403e-960d-04202e19b244",
+            "MapVariant": {
+                "ResourceType": 3,
+                "ResourceId": "4f58e2f2-9fac-4a14-a107-56a1df68fbb8",
+                "OwnerType": 1,
+                "Owner": "Agent Zero85"
+            },
+            "GameBaseVariantId": "1e473914-46e4-408d-af26-178fb115de76",
+            "GameVariant": {
+                "ResourceType": 2,
+                "ResourceId": "564afd1d-a87a-4cc4-a7d1-1d9ded69ca71",
+                "OwnerType": 1,
+                "Owner": "Agent Zero85"
+            },
+            "MatchDuration": "PT3M6.3429412S",
+            "MatchCompletedDate": {
+                "ISO8601Date": "2016-09-25T00:00:00Z"
+            },
+            "Teams": [
+                {
+                    "Id": 1,
+                    "Score": 5,
+                    "Rank": 1
+                },
+                {
+                    "Id": 0,
+                    "Score": 1,
+                    "Rank": 2
+                }
+            ],
+            "Players": [
+                {
+                    "Player": {
+                        "Gamertag": "Ray Benefield",
+                        "Xuid": null
+                    },
+                    "TeamId": 0,
+                    "Rank": 3,
+                    "Result": 1,
+                    "TotalKills": 0,
+                    "TotalDeaths": 2,
+                    "TotalAssists": 0,
+                    "PreMatchRatings": null,
+                    "PostMatchRatings": null
+                }
+            ],
+            "IsTeamGame": true,
+            "SeasonId": null,
+            "MatchCompletedDateFidelity": 1
+        },
+        {
+            "Links": {
+                "StatsMatchDetails": {
+                    "AuthorityId": "spartanstats",
+                    "Path": "h5/custom/matches/fa18a903-1558-4d53-a6ea-807ac8258857",
+                    "QueryString": null,
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                },
+                "UgcFilmManifest": {
+                    "AuthorityId": "ugc",
+                    "Path": "/h5/films/fa18a903-1558-4d53-a6ea-807ac8258857",
+                    "QueryString": "?view=film-manifest",
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                }
+            },
+            "Id": {
+                "MatchId": "fa18a903-1558-4d53-a6ea-807ac8258857",
+                "GameMode": 3
+            },
+            "HopperId": null,
+            "MapId": "d67fdcb9-6d9c-403e-960d-04202e19b244",
+            "MapVariant": {
+                "ResourceType": 3,
+                "ResourceId": "29f7618a-0c91-4af2-8e12-403e78fe490c",
+                "OwnerType": 1,
+                "Owner": "Agent Zero85"
+            },
+            "GameBaseVariantId": "1e473914-46e4-408d-af26-178fb115de76",
+            "GameVariant": {
+                "ResourceType": 2,
+                "ResourceId": "0a01c304-56ba-4af8-ae07-efed9ab889bd",
+                "OwnerType": 1,
+                "Owner": "Agent Zero85"
+            },
+            "MatchDuration": "PT5M57.8663351S",
+            "MatchCompletedDate": {
+                "ISO8601Date": "2016-09-25T00:00:00Z"
+            },
+            "Teams": [
+                {
+                    "Id": 0,
+                    "Score": 1,
+                    "Rank": 1
+                },
+                {
+                    "Id": 1,
+                    "Score": 1,
+                    "Rank": 1
+                }
+            ],
+            "Players": [
+                {
+                    "Player": {
+                        "Gamertag": "Ray Benefield",
+                        "Xuid": null
+                    },
+                    "TeamId": 0,
+                    "Rank": 1,
+                    "Result": 2,
+                    "TotalKills": 2,
+                    "TotalDeaths": 1,
+                    "TotalAssists": 0,
+                    "PreMatchRatings": null,
+                    "PostMatchRatings": null
+                }
+            ],
+            "IsTeamGame": true,
+            "SeasonId": null,
+            "MatchCompletedDateFidelity": 1
+        },
+        {
+            "Links": {
+                "StatsMatchDetails": {
+                    "AuthorityId": "spartanstats",
+                    "Path": "h5/custom/matches/df8c8a0e-73ca-4447-b461-678b28f26832",
+                    "QueryString": null,
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                },
+                "UgcFilmManifest": {
+                    "AuthorityId": "ugc",
+                    "Path": "/h5/films/df8c8a0e-73ca-4447-b461-678b28f26832",
+                    "QueryString": "?view=film-manifest",
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                }
+            },
+            "Id": {
+                "MatchId": "df8c8a0e-73ca-4447-b461-678b28f26832",
+                "GameMode": 3
+            },
+            "HopperId": null,
+            "MapId": "caacb800-f206-11e4-81ab-24be05e24f7e",
+            "MapVariant": {
+                "ResourceType": 3,
+                "ResourceId": "81d21df4-6fdc-40e2-822e-fff6d5fe6d31",
+                "OwnerType": 3,
+                "Owner": ""
+            },
+            "GameBaseVariantId": "b0df8938-0fb6-42ee-846f-a0c3593344d5",
+            "GameVariant": {
+                "ResourceType": 2,
+                "ResourceId": "65ac640f-8afc-4305-a2eb-b88a69a94635",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "MatchDuration": "PT6M44.8630974S",
+            "MatchCompletedDate": {
+                "ISO8601Date": "2016-09-25T00:00:00Z"
+            },
+            "Teams": [
+                {
+                    "Id": 1,
+                    "Score": 10,
+                    "Rank": 2
+                },
+                {
+                    "Id": 0,
+                    "Score": 30,
+                    "Rank": 1
+                }
+            ],
+            "Players": [
+                {
+                    "Player": {
+                        "Gamertag": "Ray Benefield",
+                        "Xuid": null
+                    },
+                    "TeamId": 0,
+                    "Rank": 1,
+                    "Result": 3,
+                    "TotalKills": 1,
+                    "TotalDeaths": 0,
+                    "TotalAssists": 0,
+                    "PreMatchRatings": null,
+                    "PostMatchRatings": null
+                }
+            ],
+            "IsTeamGame": true,
+            "SeasonId": null,
+            "MatchCompletedDateFidelity": 1
+        },
+        {
+            "Links": {
+                "StatsMatchDetails": {
+                    "AuthorityId": "spartanstats",
+                    "Path": "h5/custom/matches/c0d5fae8-2b98-4958-a92c-8c2e8e9b5d3b",
+                    "QueryString": null,
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                },
+                "UgcFilmManifest": {
+                    "AuthorityId": "ugc",
+                    "Path": "/h5/films/c0d5fae8-2b98-4958-a92c-8c2e8e9b5d3b",
+                    "QueryString": "?view=film-manifest",
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                }
+            },
+            "Id": {
+                "MatchId": "c0d5fae8-2b98-4958-a92c-8c2e8e9b5d3b",
+                "GameMode": 3
+            },
+            "HopperId": null,
+            "MapId": "cb914b9e-f206-11e4-b447-24be05e24f7e",
+            "MapVariant": {
+                "ResourceType": 3,
+                "ResourceId": "c021a86f-bf73-4d77-8759-feab2525ab4c",
+                "OwnerType": 3,
+                "Owner": ""
+            },
+            "GameBaseVariantId": "b0df8938-0fb6-42ee-846f-a0c3593344d5",
+            "GameVariant": {
+                "ResourceType": 2,
+                "ResourceId": "65ac640f-8afc-4305-a2eb-b88a69a94635",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "MatchDuration": "PT2M23.4253414S",
+            "MatchCompletedDate": {
+                "ISO8601Date": "2016-09-25T00:00:00Z"
+            },
+            "Teams": [
+                {
+                    "Id": 1,
+                    "Score": 30,
+                    "Rank": 1
+                },
+                {
+                    "Id": 0,
+                    "Score": 0,
+                    "Rank": 2
+                }
+            ],
+            "Players": [
+                {
+                    "Player": {
+                        "Gamertag": "Ray Benefield",
+                        "Xuid": null
+                    },
+                    "TeamId": 0,
+                    "Rank": 4,
+                    "Result": 1,
+                    "TotalKills": 0,
+                    "TotalDeaths": 1,
+                    "TotalAssists": 0,
+                    "PreMatchRatings": null,
+                    "PostMatchRatings": null
+                }
+            ],
+            "IsTeamGame": true,
+            "SeasonId": null,
+            "MatchCompletedDateFidelity": 1
+        },
+        {
+            "Links": {
+                "StatsMatchDetails": {
+                    "AuthorityId": "spartanstats",
+                    "Path": "h5/custom/matches/070f832b-9c4b-49cb-b84b-8528ddfef590",
+                    "QueryString": null,
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                },
+                "UgcFilmManifest": {
+                    "AuthorityId": "ugc",
+                    "Path": "/h5/films/070f832b-9c4b-49cb-b84b-8528ddfef590",
+                    "QueryString": "?view=film-manifest",
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                }
+            },
+            "Id": {
+                "MatchId": "070f832b-9c4b-49cb-b84b-8528ddfef590",
+                "GameMode": 3
+            },
+            "HopperId": null,
+            "MapId": "d67fdcb9-6d9c-403e-960d-04202e19b244",
+            "MapVariant": {
+                "ResourceType": 3,
+                "ResourceId": "26b5bb00-f2dc-4d57-a8c1-f9b9bbbc4b8c",
+                "OwnerType": 1,
+                "Owner": "Caustic Kirby"
+            },
+            "GameBaseVariantId": "f6051f51-bbb6-4ccc-8ac0-cf42b7291c76",
+            "GameVariant": {
+                "ResourceType": 2,
+                "ResourceId": "22af8e6e-6435-450c-9b86-4c9bff449981",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "MatchDuration": "PT2M0.5078635S",
+            "MatchCompletedDate": {
+                "ISO8601Date": "2016-09-25T00:00:00Z"
+            },
+            "Teams": [
+                {
+                    "Id": 0,
+                    "Score": 50,
+                    "Rank": 1
+                },
+                {
+                    "Id": 1,
+                    "Score": 40,
+                    "Rank": 4
+                },
+                {
+                    "Id": 2,
+                    "Score": 50,
+                    "Rank": 1
+                },
+                {
+                    "Id": 3,
+                    "Score": 45,
+                    "Rank": 3
+                }
+            ],
+            "Players": [
+                {
+                    "Player": {
+                        "Gamertag": "Ray Benefield",
+                        "Xuid": null
+                    },
+                    "TeamId": 0,
+                    "Rank": 1,
+                    "Result": 2,
+                    "TotalKills": 0,
+                    "TotalDeaths": 0,
+                    "TotalAssists": 0,
+                    "PreMatchRatings": null,
+                    "PostMatchRatings": null
+                }
+            ],
+            "IsTeamGame": false,
+            "SeasonId": null,
+            "MatchCompletedDateFidelity": 1
+        },
+        {
+            "Links": {
+                "StatsMatchDetails": {
+                    "AuthorityId": "spartanstats",
+                    "Path": "h5/custom/matches/43ac8a0d-a11d-4d39-a3cd-60c76216cd72",
+                    "QueryString": null,
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                },
+                "UgcFilmManifest": {
+                    "AuthorityId": "ugc",
+                    "Path": "/h5/films/43ac8a0d-a11d-4d39-a3cd-60c76216cd72",
+                    "QueryString": "?view=film-manifest",
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                }
+            },
+            "Id": {
+                "MatchId": "43ac8a0d-a11d-4d39-a3cd-60c76216cd72",
+                "GameMode": 3
+            },
+            "HopperId": null,
+            "MapId": "cb914b9e-f206-11e4-b447-24be05e24f7e",
+            "MapVariant": {
+                "ResourceType": 3,
+                "ResourceId": "c021a86f-bf73-4d77-8759-feab2525ab4c",
+                "OwnerType": 3,
+                "Owner": ""
+            },
+            "GameBaseVariantId": "f6051f51-bbb6-4ccc-8ac0-cf42b7291c76",
+            "GameVariant": {
+                "ResourceType": 2,
+                "ResourceId": "22af8e6e-6435-450c-9b86-4c9bff449981",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "MatchDuration": "PT43.9084059S",
+            "MatchCompletedDate": {
+                "ISO8601Date": "2016-09-25T00:00:00Z"
+            },
+            "Teams": [
+                {
+                    "Id": 0,
+                    "Score": 40,
+                    "Rank": 2
+                },
+                {
+                    "Id": 1,
+                    "Score": 45,
+                    "Rank": 1
+                },
+                {
+                    "Id": 2,
+                    "Score": 30,
+                    "Rank": 4
+                },
+                {
+                    "Id": 3,
+                    "Score": 40,
+                    "Rank": 2
+                }
+            ],
+            "Players": [
+                {
+                    "Player": {
+                        "Gamertag": "Ray Benefield",
+                        "Xuid": null
+                    },
+                    "TeamId": 0,
+                    "Rank": 2,
+                    "Result": 1,
+                    "TotalKills": 0,
+                    "TotalDeaths": 0,
+                    "TotalAssists": 0,
+                    "PreMatchRatings": null,
+                    "PostMatchRatings": null
+                }
+            ],
+            "IsTeamGame": false,
+            "SeasonId": null,
+            "MatchCompletedDateFidelity": 1
+        },
+        {
+            "Links": {
+                "StatsMatchDetails": {
+                    "AuthorityId": "spartanstats",
+                    "Path": "h5/custom/matches/2a21c756-0c59-4360-9c69-8df508c06a7e",
+                    "QueryString": null,
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                },
+                "UgcFilmManifest": {
+                    "AuthorityId": "ugc",
+                    "Path": "/h5/films/2a21c756-0c59-4360-9c69-8df508c06a7e",
+                    "QueryString": "?view=film-manifest",
+                    "RetryPolicyId": "exponentialretry",
+                    "TopicName": "",
+                    "AcknowledgementTypeId": 0,
+                    "AuthenticationLifetimeExtensionSupported": false
+                }
+            },
+            "Id": {
+                "MatchId": "2a21c756-0c59-4360-9c69-8df508c06a7e",
+                "GameMode": 3
+            },
+            "HopperId": null,
+            "MapId": "cb914b9e-f206-11e4-b447-24be05e24f7e",
+            "MapVariant": {
+                "ResourceType": 3,
+                "ResourceId": "c021a86f-bf73-4d77-8759-feab2525ab4c",
+                "OwnerType": 3,
+                "Owner": ""
+            },
+            "GameBaseVariantId": "f6051f51-bbb6-4ccc-8ac0-cf42b7291c76",
+            "GameVariant": {
+                "ResourceType": 2,
+                "ResourceId": "22af8e6e-6435-450c-9b86-4c9bff449981",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "MatchDuration": "PT48.5461753S",
+            "MatchCompletedDate": {
+                "ISO8601Date": "2016-09-25T00:00:00Z"
+            },
+            "Teams": [
+                {
+                    "Id": 0,
+                    "Score": 40,
+                    "Rank": 2
+                },
+                {
+                    "Id": 1,
+                    "Score": 55,
+                    "Rank": 1
+                },
+                {
+                    "Id": 2,
+                    "Score": 40,
+                    "Rank": 2
+                },
+                {
+                    "Id": 3,
+                    "Score": 40,
+                    "Rank": 2
+                }
+            ],
+            "Players": [
+                {
+                    "Player": {
+                        "Gamertag": "Ray Benefield",
+                        "Xuid": null
+                    },
+                    "TeamId": 0,
+                    "Rank": 2,
+                    "Result": 1,
+                    "TotalKills": 0,
+                    "TotalDeaths": 0,
+                    "TotalAssists": 0,
+                    "PreMatchRatings": null,
+                    "PostMatchRatings": null
+                }
+            ],
+            "IsTeamGame": false,
+            "SeasonId": null,
+            "MatchCompletedDateFidelity": 1
+        }
+    ],
+    "Links": {
+        "Self": {
+            "AuthorityId": "spartanstats",
+            "Path": "/h5/players/Ray%20Benefield/matches",
+            "QueryString": "?include-xuids=false&view=full&include-ratings=false&include-times=false&modes=custom&start=50",
+            "RetryPolicyId": "",
+            "TopicName": "",
+            "AcknowledgementTypeId": 0,
+            "AuthenticationLifetimeExtensionSupported": false
+        }
+    }
+}

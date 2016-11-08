@@ -1,0 +1,2909 @@
+{
+    "Results": [
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "fbee1771-1299-47db-8668-5a29aef08c7d",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "titan 0.16.1",
+            "Description": "",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-10-28T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-10-28T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "bb7c0b33-e22b-450b-afc2-7da963722910",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "fbee1771-1299-47db-8668-5a29aef08c7d",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "titan 0.15.5",
+            "Description": "",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-10-25T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-10-25T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "f5286ae0-bb6d-49e0-8dc0-07dafe86e034",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "d1f6ebaa-a146-4092-96cc-46a6dc2a28a7",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Stuf",
+            "Description": "Stuf",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-10-21T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-10-25T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "5536321c-30a4-472b-92f5-55aac4caae59",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "fbee1771-1299-47db-8668-5a29aef08c7d",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Fury Prefabs",
+            "Description": "Fury Prefabs",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-10-11T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-10-21T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "04451790-4257-431d-8824-b901813f8cc0",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 1,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "f474567e-0226-472a-acfe-a6311610b154",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "bc",
+            "Description": "",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-10-18T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-10-18T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "fa08adee-1edd-4dcd-812a-906c16e8bd24",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "4786655d-9234-4195-a04c-1b1732f0532b",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Testing",
+            "Description": "Testing",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-10-18T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-10-18T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "6d42638a-c00c-448a-afe9-505539cfeadc",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "4786655d-9234-4195-a04c-1b1732f0532b",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Alpine",
+            "Description": "",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-10-18T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-10-18T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "8f40267e-f787-4a48-b5b3-d372f7cea0cb",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "f474567e-0226-472a-acfe-a6311610b154",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "bc",
+            "Description": "",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-10-18T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-10-18T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "3a0394a9-28ce-4399-abf9-7e6832a8fa52",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "fbee1771-1299-47db-8668-5a29aef08c7d",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Mansion 0.0.3",
+            "Description": "",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-09-25T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-09-25T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "d7c3d8a5-8f12-4ce0-9c86-ff691d6516dc",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "d1f6ebaa-a146-4092-96cc-46a6dc2a28a7",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Draft",
+            "Description": "Draft",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-09-19T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-09-19T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "e4fa2a65-bbc6-4910-8b8e-097eba19b209",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "8dbf30ff-a505-45ce-98ff-1721c7c67412",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Furnace 1.0.0",
+            "Description": "",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-09-10T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-09-11T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "135c572e-365d-465e-ae7a-2eb3552a1e53",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 1,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "c021a86f-bf73-4d77-8759-feab2525ab4c",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "The Rig",
+            "Description": "The Rig Attrition 0.0.1",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-09-10T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-09-10T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "d6216526-80df-48d0-bded-16fc6490cac4",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "9141087e-b32c-4874-9428-7a0c16cb754d",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Cache Proto 0.0.9",
+            "Description": "Cache Proto 0.0.9",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-08-19T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-08-19T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "2c35a6e7-db72-46c6-848c-da8d9756a27b",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "9141087e-b32c-4874-9428-7a0c16cb754d",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Cache Proto 0.0.8",
+            "Description": "Cache Proto 0.0.8",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-08-18T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-08-18T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "f4c8f41b-8e9a-4ccb-a3e6-ac07578c2691",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "9141087e-b32c-4874-9428-7a0c16cb754d",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Cache Proto 0.0.7",
+            "Description": "Cache Proto 0.0.7",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-08-18T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-08-18T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "e266954b-3ffe-4df8-9872-45380f605946",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "9141087e-b32c-4874-9428-7a0c16cb754d",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Cache Proto 0.0.6",
+            "Description": "Cache Proto 0.0.6",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-08-18T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-08-18T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "26f83780-3fe1-476e-93c0-2b377836feff",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "9141087e-b32c-4874-9428-7a0c16cb754d",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Cache Proto 0.0.5",
+            "Description": "Cache Proto 0.0.5",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-08-18T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-08-18T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "ecc26d2e-4417-4729-a860-1da15019bd75",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Minefield 0.1.0",
+            "Description": "Minefield 0.1.0",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-08-18T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-08-18T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "422e0da3-3254-43d7-babc-d393815a4074",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Minefield 0.0.2",
+            "Description": "Minefield 0.0.2",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-08-18T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-08-18T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "fce64a22-349e-46ac-9515-d031172a9beb",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Minefield 0.0.1",
+            "Description": "Minefield 0.0.1",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-08-18T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-08-18T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "37d464b1-f8d3-424a-b4c8-9fe0728e9a79",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "9141087e-b32c-4874-9428-7a0c16cb754d",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Cache Proto 0.0.4",
+            "Description": "Cache Proto 0.0.4",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-08-18T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-08-18T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "e59e6bba-2533-437d-a8aa-7dcebea2394f",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "9141087e-b32c-4874-9428-7a0c16cb754d",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Cache Proto 0.0.1",
+            "Description": "Cache Proto",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-08-14T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-08-18T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "05171ac4-de22-4d53-b51a-1c1fa861dfa2",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "9141087e-b32c-4874-9428-7a0c16cb754d",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Cache Proto 0.0.2",
+            "Description": "Cache Proto 2",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-08-15T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-08-18T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "e9985d4e-3236-481d-a06f-5280fc6303b8",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "9141087e-b32c-4874-9428-7a0c16cb754d",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Cache Proto 0.0.3",
+            "Description": "TEST 2",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-08-15T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-08-18T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "00d9243d-3bdc-4a80-a39f-bc0672dbf8fa",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "fbee1771-1299-47db-8668-5a29aef08c7d",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "CF34 0.0.11",
+            "Description": "",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-07-28T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-07-28T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "1facbc8c-2434-472f-98dd-a2455126bb6e",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "e9785316-c910-4f84-a98f-e0f969b98fc2",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "breakut",
+            "Description": "",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-07-28T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-07-28T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "7c8a4c42-2e90-4575-8694-b1857614a9f9",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "fbee1771-1299-47db-8668-5a29aef08c7d",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Ball 2",
+            "Description": "Ball 2",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-07-26T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-07-26T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "e19957ef-9842-4240-9a32-c6461fc55416",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "fbee1771-1299-47db-8668-5a29aef08c7d",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Ball",
+            "Description": "Ball",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-07-26T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-07-26T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "0bebeb2f-a578-4160-a843-e6dfe7a69a48",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "a3dc1ffe-5af9-49b1-b5f8-20380d4ad7d2",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Malignant",
+            "Description": "",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-05-05T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-05-05T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "73348080-1430-46ba-9755-d991bb32cfd5",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 1,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Hex test",
+            "Description": "Hex test",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-04-19T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-04-19T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "de474709-881a-4f5e-81d9-99718eb798dd",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "8dbf30ff-a505-45ce-98ff-1721c7c67412",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Brute",
+            "Description": "Brute",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-04-07T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-04-07T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "10aac4be-8eb9-44cc-947a-fe6d9d08ec54",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "f8745d7e-8866-4540-b8f0-1a4d57af49cf",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Marina",
+            "Description": "",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-04-03T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-04-03T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "dfb9001e-0231-42a0-84b4-c909e9c1e94d",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 2,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "f8745d7e-8866-4540-b8f0-1a4d57af49cf",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Brutalist AP 0.0.01",
+            "Description": "",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-30T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-30T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "4315f63e-7e7b-48c3-804b-e4337ea1e490",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "19daeaa3-6dd7-490a-b5c7-2b6e2da7c2e1",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Artemis Square",
+            "Description": "Artemis Square",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-28T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-28T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "375d6632-f23e-4a54-84b9-26e06a11aa82",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 7,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "19daeaa3-6dd7-490a-b5c7-2b6e2da7c2e1",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Hangar",
+            "Description": "Hangar",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-28T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-28T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "5fa6cd99-6a78-4a91-a0d7-2154c877fd44",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 3,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "464d6eac-5be1-40d9-b7ff-c8f77b040d33",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Hazard",
+            "Description": "Hazard",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-28T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-28T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "e3480eb3-efbf-40f0-849b-ba544873cdea",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 2,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "19daeaa3-6dd7-490a-b5c7-2b6e2da7c2e1",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Smokestack",
+            "Description": "Smokestack",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-28T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-28T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "8e670afd-5853-419a-b86c-a6c13e79c929",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 3,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "464d6eac-5be1-40d9-b7ff-c8f77b040d33",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Legion",
+            "Description": "Legion",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-28T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-28T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "9d9eb080-cd31-4c2d-8adb-33c7cc91ea00",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 3,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "5b908ba2-011e-4d2a-9c03-ea70275bdfa0",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Seclusion",
+            "Description": "Seclusion",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-28T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-28T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "489151e7-3319-471c-9b3a-e90b00a9fe83",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 2,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "19daeaa3-6dd7-490a-b5c7-2b6e2da7c2e1",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Treatment",
+            "Description": "Treatment",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-28T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-28T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "e7eac8f7-92e0-40f8-92ab-772bf9afa28d",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 2,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "19daeaa3-6dd7-490a-b5c7-2b6e2da7c2e1",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Goliath",
+            "Description": "Goliath",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-28T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-28T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "9d3ff613-86f9-45e9-9aaf-c71bf78137ab",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 3,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "19daeaa3-6dd7-490a-b5c7-2b6e2da7c2e1",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Plush 0.9.2",
+            "Description": "",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-28T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-28T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "c380aff3-4b7f-4937-9f89-d724042d9f5d",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "f8745d7e-8866-4540-b8f0-1a4d57af49cf",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "san art",
+            "Description": "",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-26T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-26T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "b2fde87f-8ddd-4552-adaa-d38731396a86",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "464d6eac-5be1-40d9-b7ff-c8f77b040d33",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Not Snowbound.",
+            "Description": "",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-26T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-26T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "9c45ccca-7fcb-4c1a-9b24-ce3b7d7e6bda",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "f8745d7e-8866-4540-b8f0-1a4d57af49cf",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Test",
+            "Description": "Test",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-25T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-25T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "a7cbc97b-ce5e-42b9-ab6d-52987deda1fb",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "f8745d7e-8866-4540-b8f0-1a4d57af49cf",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Lava",
+            "Description": "",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-23T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-23T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "0d515b29-f32c-4eb4-89f1-c4a7339b18e5",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "434d4cc7-cf9f-41d5-a9c1-bc0dd8780bd3",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Dis test",
+            "Description": "Dis test",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-18T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-18T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "59b5ec29-eaf3-474c-b811-6f0ad9168aa7",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "434d4cc7-cf9f-41d5-a9c1-bc0dd8780bd3",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Plaza Hive 0.2.1",
+            "Description": "Plaza Hive 0.2.1",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-18T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-18T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "078642d1-cf5e-498b-b69e-4ceb3260ddae",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "434d4cc7-cf9f-41d5-a9c1-bc0dd8780bd3",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "23",
+            "Description": "23",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-18T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-18T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "aad9d842-9154-4678-8098-903008a358e4",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "434d4cc7-cf9f-41d5-a9c1-bc0dd8780bd3",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Test Map 2",
+            "Description": "Test Map 2",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-18T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-18T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "27ad0783-58dc-4100-998d-b7a945269456",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "434d4cc7-cf9f-41d5-a9c1-bc0dd8780bd3",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Test Map",
+            "Description": "Test Map",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-18T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-18T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "b22c025c-acb9-42f8-b6c1-1796362e311e",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "7ea391be-dd75-4e80-ac5e-cf46ad5c34b8",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Coliseum Hive 0.0.1",
+            "Description": "Coliseum Hive",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-15T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-15T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "66a9aee9-eaa0-4b2b-9c84-93ff080b4da8",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "434d4cc7-cf9f-41d5-a9c1-bc0dd8780bd3",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Plaza Hive 0.2.0",
+            "Description": "Plaza Hive 0.2.0",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-13T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-13T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "8664daca-4f12-4f50-bba6-211205486d47",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "434d4cc7-cf9f-41d5-a9c1-bc0dd8780bd3",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Test",
+            "Description": "Test",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-13T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-13T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "96945e8a-a9a9-4e82-bb88-27ff4208bc44",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "434d4cc7-cf9f-41d5-a9c1-bc0dd8780bd3",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Test",
+            "Description": "Test",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-13T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-13T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "d8b5b498-d966-45f6-893a-916a913ea976",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "434d4cc7-cf9f-41d5-a9c1-bc0dd8780bd3",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Plaza Hive 0.1.0",
+            "Description": "Extermination Plaza",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-11T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-13T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "5a897c01-c205-4879-9b46-e4aa9525ac2d",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "f8745d7e-8866-4540-b8f0-1a4d57af49cf",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Test",
+            "Description": "Test",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-13T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-13T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "e8571282-1681-4783-aa97-e3e9c925ff70",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "434d4cc7-cf9f-41d5-a9c1-bc0dd8780bd3",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Ext Plaza",
+            "Description": "Ext Plaza",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-12T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-12T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "b13a70b8-b3a4-4921-9a56-097e9957bf0c",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "7ea391be-dd75-4e80-ac5e-cf46ad5c34b8",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Extermination Colliseum",
+            "Description": "Extermination Colliseum",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-12T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-12T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "ff84e22f-ed3e-4ae4-baba-0140c74682d6",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "434d4cc7-cf9f-41d5-a9c1-bc0dd8780bd3",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Spawn",
+            "Description": "Spawn",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-07T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-09T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "70baff08-3251-4fde-950a-e69936c4ad37",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Chateau 0.1.1",
+            "Description": "Chateau 0.1.1",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-05T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-05T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "d331c69a-2c53-4d43-835e-a83cd587f122",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 2,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "e9785316-c910-4f84-a98f-e0f969b98fc2",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Ultimate Arena",
+            "Description": "Ultimate Arena",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-02-24T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-02-24T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "27cd8153-6b0b-40cd-9c38-38c512c9cd96",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "5b908ba2-011e-4d2a-9c03-ea70275bdfa0",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Ultimate Arena",
+            "Description": "Ultimate Arena",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-02-24T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-02-24T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "9e3eb4dd-67c5-472d-ae45-f0685ad6cb58",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "4b32811d-d900-4cad-bfd7-2b9d01ccf23a",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Aesthetic Template",
+            "Description": "Aesthetic Template",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-02-17T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-02-18T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "748b37e9-30d8-4e9d-8702-074cc857add1",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "4b32811d-d900-4cad-bfd7-2b9d01ccf23a",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "BOLT",
+            "Description": "BOLT",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-02-18T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-02-18T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "81a0e5e0-050a-40af-a10c-b1bd718654bf",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "4b32811d-d900-4cad-bfd7-2b9d01ccf23a",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Truss Proof",
+            "Description": "Truss Proof",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-02-17T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-02-17T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "9399e265-a2c1-4918-8b6a-8f3fdce4e919",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Chateau 0.1.0",
+            "Description": "Chateau 0.1.0",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-01-27T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-01-27T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "42802ccb-3fa3-4fce-80ec-5a52641d8c0b",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 2,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Chateau 0.0.4",
+            "Description": "Chateau 0.0.4",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-01-15T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-01-22T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "fd91bda5-0c57-49ed-bad8-84be88b4aae6",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 1,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Chateau 0.0.3",
+            "Description": "Chateau 0.0.3",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-01-14T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-01-14T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "5920b814-272f-497c-87b8-74acaaa1ab16",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Chateau 0.0.2",
+            "Description": "Chateau 0.0.2",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-01-14T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-01-14T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "38d7fbb1-f154-4960-998d-80efc1b63726",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Chateau 0.0.1",
+            "Description": "Chateau 0.0.1",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-01-14T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-01-14T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "48153ae6-e4e2-4b96-9cde-2cd564651baf",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Think Fast 0.2.2",
+            "Description": "Think Fast 0.2.2",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-01-09T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-01-09T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "975c786b-25c7-4871-80af-8ad715979c1b",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 7,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Think Fast 0.2.1",
+            "Description": "Think Fast 0.2.1",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-01-09T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-01-09T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "b90e1f21-c299-4c87-90fa-c580b294c188",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Think Fast X.2.0",
+            "Description": "Think Fast X.2.0",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-01-09T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-01-09T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "907cddcd-bb72-4734-9794-20163c81beaf",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 1,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Think Fast 0.2.0",
+            "Description": "Think Fast 0.2.0",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-01-09T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-01-09T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "2a17cf23-c127-480e-af49-38ae96307c40",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Think Fast 0.1.5",
+            "Description": "Think Fast 0.1.5",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-01-08T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-01-09T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "f511fc33-779c-4d8e-a1ad-ce94ae8109b3",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 1,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Think Fast 0.1.4",
+            "Description": "Think Fast 0.1.4",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-01-08T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-01-08T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "34f5cb69-130f-4091-8a8b-b0702efaf301",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Think Fast 0.1.3",
+            "Description": "Think Fast 0.1.3",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-01-07T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-01-07T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "31b902ea-a7ef-4d9e-8caa-968e09dd2b67",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Think Fast 0.1.2",
+            "Description": "Think Fast 0.1.2",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-01-06T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-01-07T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "720eb257-7a6f-4fd4-8013-b78a6cc114d5",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Think Fast 0.1.1",
+            "Description": "Think Fast 0.1.1",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-01-06T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-01-06T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "b80cf374-ff2b-461a-aa59-d5120b80a001",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Think Fast 0.1.0",
+            "Description": "Think Fast 0.1.0",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-01-06T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-01-06T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "1a36a6e2-350d-45c1-86f0-87e685ac734e",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "dd4dc317-1843-4b91-864c-a6690deb1553",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "SS 0.0.6",
+            "Description": "SS 0.0.6",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2015-12-29T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-01-06T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "c7dfbb01-8198-49e9-bcce-427451c021d2",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Think Fast 0.1.0",
+            "Description": "Think Fast 0.1.0",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-01-05T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-01-05T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "93c1dfb5-7342-4afe-93f2-bd3614eee286",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 1,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Think Fast 0.0.7",
+            "Description": "Think Fast 0.0.7",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-01-04T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-01-05T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "1fb709f7-1733-42aa-a535-bade7464718d",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Think Fast 0.0.6",
+            "Description": "Think Fast 0.0.6",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-01-02T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-01-04T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "a6449f5e-b708-4449-8acf-d6020ae372f1",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Think Fast 0.X.1",
+            "Description": "Think Fast 0.0.X",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-01-01T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-01-03T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "4d9b304c-04ba-45b7-85f2-c4fd850f1a1e",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Think Fast 0.X.2",
+            "Description": "Think Fast 0.X.2",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-01-02T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-01-02T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "fef79376-8ad0-474d-9a17-ef221605e5ee",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Think Fast 0.0.5",
+            "Description": "Think Fast 0.0.5",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-01-01T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-01-01T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "17b64bb5-73ff-4853-a09a-39b4e5cfbc79",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Think Fast 0.0.4",
+            "Description": "Think Fast 0.0.4",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-01-01T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-01-01T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "54f7c24b-ae1b-4082-ba39-f868e92572ac",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Think Fast 0.0.3",
+            "Description": "Think Fast 0.0.3",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2015-12-31T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2015-12-31T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "1706aa99-8b18-4adf-9bbe-8420bdce6eb0",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Think Fast 0.0.2",
+            "Description": "Think Fast 0.0.2",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2015-12-31T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2015-12-31T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "6c8cd087-0a64-4da9-9305-099ab405587f",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Think Fast 0.0.1",
+            "Description": "Think Fast 0.0.1",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2015-12-31T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2015-12-31T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "f14e4dfd-15bb-461b-9c72-deb510324031",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "dd4dc317-1843-4b91-864c-a6690deb1553",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "SS 0.0.5",
+            "Description": "SS 0.0.5",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2015-12-29T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2015-12-29T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "cd3fa1f3-277c-492f-b888-0db25519fe96",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "dd4dc317-1843-4b91-864c-a6690deb1553",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "SS 0.0.4",
+            "Description": "SS 0.0.4",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2015-12-29T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2015-12-29T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "302543fb-7981-475d-a7a8-8cb701185f72",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "dd4dc317-1843-4b91-864c-a6690deb1553",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "SS 0.0.3",
+            "Description": "SS 0.0.3",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2015-12-29T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2015-12-29T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "a40824f8-48b0-4591-bdb3-4e6412d634cf",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "dd4dc317-1843-4b91-864c-a6690deb1553",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "SS 0.0.2",
+            "Description": "SS 0.0.2",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2015-12-29T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2015-12-29T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "e838e089-3cf6-4d41-a884-69922b66fb02",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "dd4dc317-1843-4b91-864c-a6690deb1553",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "SS 0.0.1",
+            "Description": "SS 0.0.1",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2015-12-28T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2015-12-29T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "90ca2f64-58a1-4b6d-9d18-1f62331c8fef",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "(Proto) Conquest",
+            "Description": "(Proto) Conquest",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2015-12-20T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2015-12-22T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "3e5a1bb7-08ef-42dc-9a5f-aa8692f50fcc",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Breakout Canvas",
+            "Description": "Canvas",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2015-12-20T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2015-12-20T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "7fbe3fd0-20c4-496b-8006-34c53f2210c9",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 1,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "5b908ba2-011e-4d2a-9c03-ea70275bdfa0",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Alpine Canvas",
+            "Description": "Canvas",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2015-12-17T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2015-12-20T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "0eb764ae-94b7-42b7-abf0-de5dfc29d68d",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 1,
+                "HasCallerBookmarked": false
+            }
+        }
+    ],
+    "Start": 0,
+    "Count": 100,
+    "ResultCount": 100,
+    "TotalCount": 105,
+    "Links": {}
+}

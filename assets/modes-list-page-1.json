@@ -1,0 +1,1094 @@
+{
+    "Results": [
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "278ba01a-ca6b-486e-9eb8-d92d63ce5c53",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "Survivors",
+            "Description": "Win Rounds by Eliminating the Enemy Team or Taking the Flag to the Enemy Base.",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-08-18T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-10-24T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "a593c99d-c81e-45fb-a97d-88094fd831de",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "285673aa-f086-45bc-a884-3f5c76689663",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "CF Super Friends",
+            "Description": "Chaos at its finest!",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-09-11T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-09-11T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "cec5816e-1896-48f5-9a60-f8ae497e13b6",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "285673aa-f086-45bc-a884-3f5c76689663",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "Fiesta Fury",
+            "Description": "Chaos at its finest!",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-09-11T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-09-11T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "f25ffb5a-9637-4d3a-a133-d9246d458188",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "58c68122-2f58-4b7a-a499-960b7448696b",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "BTB Assault",
+            "Description": "Bring the ball to the enemy's goal to score!",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-09-10T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-09-10T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "ac6e4ee0-6daa-4a52-9f63-a37272056385",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "8c246ab9-6dee-42fa-ab2c-3c7cd1c934ad",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "BTB Strongholds",
+            "Description": "Capture Two Strongholds to Score Points.",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-09-10T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-09-10T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "5c79ad5a-0d09-4cc3-b202-a2ddaa6f0e7b",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "4957e9d3-ec56-4d86-950d-29be2366606b",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "BTB Slayer",
+            "Description": "Control Power Weapons to Eliminate the Enemy.",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-09-10T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-09-10T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "a03208d6-4cae-4a68-be09-49af20805e96",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "26ae4c8a-9cfe-41d2-8ba0-594b6acbb75c",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "BTB CTF",
+            "Description": "Capture the Enemy Flag While Defending Your Own.",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-09-10T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-09-10T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "ed73ca7a-be11-4b8c-a135-3faedb1415d7",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "b006a3a8-93a7-4fdf-b78b-f606a4fe9fb1",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "Fury",
+            "Description": "Control Power Weapons to Eliminate the Enemy.",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-07-26T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-09-08T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "4b35f567-7671-4788-81c9-3e22b2dce6ca",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "58c68122-2f58-4b7a-a499-960b7448696b",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "Parkour",
+            "Description": "Bring the ball to the enemy's goal to score!",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-05-17T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-08-18T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "65ac640f-8afc-4305-a2eb-b88a69a94635",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 1,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "285673aa-f086-45bc-a884-3f5c76689663",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "Fiesta Parkour",
+            "Description": "Slayer with random weapons. This is madness!",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-08-18T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-08-18T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "36c3942c-fc97-4d3e-bfaf-a2b3e3cf6d80",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "285673aa-f086-45bc-a884-3f5c76689663",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "Fiesta Parkour",
+            "Description": "Slayer with random weapons. This is madness!",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-05-18T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-05-18T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "1e0e54ae-0f6b-40d9-aac3-22beb7fe2e7b",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "58c68122-2f58-4b7a-a499-960b7448696b",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "Relic",
+            "Description": "Bring the ball to the enemy's goal to score!",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-05-17T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-05-17T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "405ad1ee-c4a3-43f1-8bc9-83803e19e612",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "9213f4ae-35c4-4f83-a44d-35d71300051c",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "In the Shadows",
+            "Description": "Surviving just got a whole lot harder. If you die by an infected's hand, you join their ranks.",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-05-12T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-05-15T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "22af8e6e-6435-450c-9b86-4c9bff449981",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "9213f4ae-35c4-4f83-a44d-35d71300051c",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "In the Shadows Assassin",
+            "Description": "Surviving just got a whole lot harder. If you die by an infected's hand, you join their ranks.",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-05-13T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-05-13T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "b4033ce2-5c17-43d5-83ad-80910b9689d5",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "278ba01a-ca6b-486e-9eb8-d92d63ce5c53",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "ITS",
+            "Description": "Win Rounds by Eliminating the Enemy Team or Taking the Flag to the Enemy Base.",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2015-12-12T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-05-12T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "6c11a690-01bf-46cf-ae42-c16e8cd24070",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 23,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "59d9ec3b-4f30-40f9-ae9c-8e65485706a5",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "Extermination",
+            "Description": "Capture Two Strongholds to Score Points.",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-11T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-12T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "5594de23-1b65-4d73-a8bc-ad5ae7940833",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 1,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "b006a3a8-93a7-4fdf-b78b-f606a4fe9fb1",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "Insta",
+            "Description": "Control Power Weapons to Eliminate the Enemy.",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-03-06T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-03-09T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "e9845d0b-bd53-4ac9-8433-2c93c2372b8f",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "58c68122-2f58-4b7a-a499-960b7448696b",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "Ultimate",
+            "Description": "Bring the ball to the enemy's goal to score!",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-02-24T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-02-24T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "9ddf08cb-3530-4bfb-86ce-26f1648e211e",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "b006a3a8-93a7-4fdf-b78b-f606a4fe9fb1",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "BTB Slayer",
+            "Description": "Control Power Weapons to Eliminate the Enemy.",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-01-20T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-01-20T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "db823f96-9869-49fb-bb65-18fee71c91c6",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "4d766832-fbaa-4cc6-8512-beb85acbeb62",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "BTB Shotty Snipers",
+            "Description": "Spray and Slay with a Sniper and Shotgun.",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2016-01-20T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-01-20T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "d1b534dc-1da0-4119-87ca-64ea9fdf6aec",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "59d9ec3b-4f30-40f9-ae9c-8e65485706a5",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "Conquest",
+            "Description": "Capture Two Strongholds to Score Points.",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2015-12-16T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2016-01-12T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "9f59ecb3-2360-4420-adca-998d04d1c443",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "278ba01a-ca6b-486e-9eb8-d92d63ce5c53",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "ItS Assassin",
+            "Description": "Win Rounds by Eliminating the Enemy Team or Taking the Flag to the Enemy Base.",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2015-12-29T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2015-12-29T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "2d507dcf-0e33-4232-b9ff-a2a505fc3c9d",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "268e2a8a-1ae8-4bf5-ad4d-41ab931a6349",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "Forge",
+            "Description": "Forge your own maps!",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2015-12-29T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2015-12-29T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "1ef66d94-c2b3-4af8-8f95-0e1afcf5b32f",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 4,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "c5a98ce0-e72e-4350-9d57-8d68bdd6291b",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "Explore",
+            "Description": "Aim for the Head!",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2015-12-17T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2015-12-17T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "79462725-aa5e-4da9-b96f-9f0be0a27b61",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "b006a3a8-93a7-4fdf-b78b-f606a4fe9fb1",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "FFA",
+            "Description": "Control Power Weapons to Eliminate the Enemy.",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2015-12-15T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2015-12-15T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "647fb124-1aed-4dda-82bf-89758829f670",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "59d9ec3b-4f30-40f9-ae9c-8e65485706a5",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "Territories",
+            "Description": "Capture Two Strongholds to Score Points.",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2015-12-15T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2015-12-15T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "ef67bda8-d5ab-43c1-b865-6ef8ab00933f",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "b006a3a8-93a7-4fdf-b78b-f606a4fe9fb1",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "Stay on Target",
+            "Description": "Control Power Weapons to Eliminate the Enemy.",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2015-12-10T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2015-12-10T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "c4912b45-9c5f-4140-8be1-6ad580ae56d6",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "4d766832-fbaa-4cc6-8512-beb85acbeb62",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "(CF) JUST",
+            "Description": "Spray and Slay with a Sniper and Shotgun.",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2015-12-10T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2015-12-10T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "bca9f552-8023-4440-9539-ae9027a81459",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "4d766832-fbaa-4cc6-8512-beb85acbeb62",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "CF JUST",
+            "Description": "Spray and Slay with a Sniper and Shotgun.",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2015-12-10T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2015-12-10T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "bdf2d5ce-941b-49dc-9d7e-8c04d30f9731",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "4d766832-fbaa-4cc6-8512-beb85acbeb62",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "CF",
+            "Description": "Spray and Slay with a Sniper and Shotgun.",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2015-12-10T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2015-12-10T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "aef95f4a-a083-4202-b20d-d1c53a5e20be",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseGameEngineType": 1,
+            "GameType": 1,
+            "BaseGame": {
+                "ResourceType": 8,
+                "ResourceId": "4d766832-fbaa-4cc6-8512-beb85acbeb62",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "ScoreToWin": 0,
+            "NumberOfLives": 0,
+            "MatchDurationInSeconds": 0,
+            "NumberOfRounds": 0,
+            "Name": "Snipers",
+            "Description": "Spray and Slay with a Sniper and Shotgun.",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2015-12-10T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2015-12-10T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 2,
+                "ResourceId": "dab88b18-7e01-4ac9-8e34-8ad3ff1b6501",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        }
+    ],
+    "Start": 0,
+    "Count": 100,
+    "ResultCount": 31,
+    "TotalCount": 31,
+    "Links": {}
+}
