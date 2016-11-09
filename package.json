@@ -11,7 +11,8 @@
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
     "react-grid-layout": "^0.13.9",
-    "react-tap-event-plugin": "^1.0.0"
+    "react-tap-event-plugin": "^1.0.0",
+    "underscore": "^1.8.3"
   },
   "scripts": {
     "start": "react-scripts start",
