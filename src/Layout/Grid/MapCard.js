@@ -1,7 +1,6 @@
 import _ from 'underscore';
 import React from 'react';
-import { Card, CardActions, CardMedia, CardTitle, CardText } from 'material-ui/Card';
-import FlatButton from 'material-ui/FlatButton';
+import { Card, CardMedia, CardText } from 'material-ui/Card';
 import mapImg from './alpine.jpg';
 
 const MapCard = (props) => {
@@ -9,13 +8,12 @@ const MapCard = (props) => {
     return (
         <div {...cardProps}>
             <Card className="card">
-                <CardTitle title="Card title" subtitle="Card subtitle" />
                 <CardMedia>
                     <img src={mapImg} alt='nature' />
                 </CardMedia>
                 <CardText>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Donec mattis pretium massa. Aliquam erat volutpat. Nulla facilisi.
+                    Donec mattis pretium.
                 </CardText>
             </Card>
             {props.children}
