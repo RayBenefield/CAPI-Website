@@ -1,6 +1,7 @@
 {
   "name": "capi-website",
   "version": "0.1.0",
+  "homepage": "http://raybenefield.github.io/CAPI-Website",
   "private": true,
   "devDependencies": {
     "react-scripts": "0.6.1",
