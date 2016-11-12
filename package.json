@@ -1,6 +1,6 @@
 {
   "name": "capi-website",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "http://raybenefield.github.io/CAPI-Website",
   "private": true,
   "devDependencies": {
