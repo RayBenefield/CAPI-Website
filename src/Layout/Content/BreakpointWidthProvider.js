@@ -34,7 +34,9 @@ const BreakpointWidthProvider = (ComposedComponent) => class BreakpointWidthProv
         if (!this.mounted) return;
 
         const currentWidth = window.innerWidth;
-        if (currentWidth > 1280 && this.state !== 1280) {
+        if (currentWidth > 1600 && this.state !== 1600) {
+            this.setState({width: 1600});
+        } else if (currentWidth > 1280 && this.state !== 1280) {
             this.setState({width: 1280});
         } else if (currentWidth > 960 && this.state !== 960) {
             this.setState({width: 960});

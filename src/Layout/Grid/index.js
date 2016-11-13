@@ -13,8 +13,8 @@ const Content = ({width}) => {
                 autoSize={false}
                 layouts={layouts}
                 breakpoints={{lg: 1280, md: 960, sm: 640, xs: 320, xxs: 0}}
-                cols={{lg: 10, md: 8, sm: 6, xs: 4, xxs: 2}}
-                rowHeight={28}
+                cols={{lg: 5, md: 4, sm: 3, xs: 2, xxs: 1}}
+                rowHeight={169}
             >
                 <MapCard key={'a'} />
                 <MapCard key={'b'} />

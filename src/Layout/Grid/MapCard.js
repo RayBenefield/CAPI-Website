@@ -1,6 +1,6 @@
 import _ from 'underscore';
 import React from 'react';
-import { Card, CardMedia, CardText } from 'material-ui/Card';
+import { Card, CardTitle, CardMedia, CardText } from 'material-ui/Card';
 import mapImg from './alpine.jpg';
 
 const MapCard = (props) => {
@@ -8,13 +8,11 @@ const MapCard = (props) => {
     return (
         <div {...cardProps}>
             <Card className="card">
-                <CardMedia>
+                <CardMedia
+                    overlay={<CardTitle title="Alpine" style={{ 'font-size': '16px' }} />}
+                >
                     <img src={mapImg} alt='nature' />
                 </CardMedia>
-                <CardText>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Donec mattis pretium.
-                </CardText>
             </Card>
             {props.children}
         </div>
