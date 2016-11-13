@@ -2,9 +2,15 @@ import React from 'react';
 import { Responsive } from 'react-grid-layout';
 import './Grid.css';
 import layouts from './layouts';
-import MapCard from './MapCard';
+import FileCard from './FileCard';
+import mapImg from './alpine.jpg';
 
 const Content = ({width}) => {
+    const data = {
+        name: 'Alpine',
+        image: mapImg,
+    };
+
     return (
         <div className="layout" style={{ width: `${width}px` }}>
             <Responsive
@@ -16,11 +22,11 @@ const Content = ({width}) => {
                 cols={{lg: 5, md: 4, sm: 3, xs: 2, xxs: 1}}
                 rowHeight={169}
             >
-                <MapCard key={'a'} />
-                <MapCard key={'b'} />
-                <MapCard key={'c'} />
-                <MapCard key={'d'} />
-                <MapCard key={'e'} />
+                <FileCard key={'a'} fileData={data} />
+                <FileCard key={'b'} fileData={data} />
+                <FileCard key={'c'} fileData={data} />
+                <FileCard key={'d'} fileData={data} />
+                <FileCard key={'e'} fileData={data} />
             </Responsive>
         </div>
     );
