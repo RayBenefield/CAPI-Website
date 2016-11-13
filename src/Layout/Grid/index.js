@@ -11,6 +11,10 @@ const Content = ({width}) => {
         image: mapImg,
     };
 
+    const files = [0, 1, 2, 3, 4].map((id) => {
+        return <FileCard key={id.toString()} fileData={data} />;
+    });
+
     return (
         <div className="layout" style={{ width: `${width}px` }}>
             <Responsive
@@ -22,11 +26,7 @@ const Content = ({width}) => {
                 cols={{lg: 5, md: 4, sm: 3, xs: 2, xxs: 1}}
                 rowHeight={169}
             >
-                <FileCard key={'a'} fileData={data} />
-                <FileCard key={'b'} fileData={data} />
-                <FileCard key={'c'} fileData={data} />
-                <FileCard key={'d'} fileData={data} />
-                <FileCard key={'e'} fileData={data} />
+                {files}
             </Responsive>
         </div>
     );
