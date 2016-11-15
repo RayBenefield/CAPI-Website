@@ -3,17 +3,22 @@ import muiThemeable from 'material-ui/styles/muiThemeable';
 import './Content.css';
 import FileGrid from './StaticResponsiveGrid';
 import FileCard from './FileCard';
-import mapImg from './alpine.jpg';
+import dataFile from './maps-list-page-1.json';
+import findImage from './find-image';
+
+const data = dataFile.Results;
 
 const Content = () => {
-    const data = {
-        name: 'Alpine',
-        image: mapImg,
-    };
-
-    const files = Array.apply(null, {length: 1000}).map(Number.call, Number).map((id) => {
-        return <FileCard key={id.toString()} fileData={data} />;
-    });
+    const files = data
+        .map((map) => {
+            return {
+                name: map.Name,
+                image: findImage(map.Identity.ResourceId),
+            };
+        })
+        .map((map, id) => {
+            return <FileCard key={id.toString()} fileData={map} />;
+        });
 
     return (
         <FileGrid itemWidth={320} maxWidth={1600} items={files} />
