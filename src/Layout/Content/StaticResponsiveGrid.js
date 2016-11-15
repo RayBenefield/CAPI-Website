@@ -1,6 +1,6 @@
+import _ from 'underscore';
 import React from "react";
 import { Responsive } from 'react-grid-layout';
-import layouts from './layouts';
 
 /*
  * A simple HOC that provides facility for listening to container resizes.
@@ -15,11 +15,27 @@ const BreakpointWidthProvider = class BreakpointWidthProvider extends React.Comp
         const layoutConfig = {
             cols: {},
             breakpoints: {},
+            widths: [],
+            layouts: {},
         };
         for (let i = 0; i < layoutCount; i++) {
+            layoutConfig.widths.push((i+1) * props.itemWidth);
             layoutConfig.cols[i] = i + 1;
             layoutConfig.breakpoints[i] = i * props.itemWidth;
+            layoutConfig.layouts[i] = [];
+
+            for (let j = 0; j < props.items.length; j++) {
+                layoutConfig.layouts[i].push({
+                    i: j.toString(),
+                    x: j % (i + 1),
+                    y: Math.floor(j / (i + 1)),
+                    w: 1,
+                    h: 1,
+                    static: true,
+                });
+            }
         }
+        layoutConfig.widths.reverse();
         this.state = {
             width: props.maxWidth,
             layoutConfig,
@@ -46,16 +62,15 @@ const BreakpointWidthProvider = class BreakpointWidthProvider extends React.Comp
         if (!this.mounted) return;
 
         const currentWidth = window.innerWidth;
-        if (currentWidth > 1600 && this.state !== 1600) {
-            this.setState({width: 1600});
-        } else if (currentWidth > 1280 && this.state !== 1280) {
-            this.setState({width: 1280});
-        } else if (currentWidth > 960 && this.state !== 960) {
-            this.setState({width: 960});
-        } else if (currentWidth > 640 && this.state !== 640) {
-            this.setState({width: 640});
-        } else if (currentWidth > 320 && this.state !== 320) {
-            this.setState({width: 320});
+        const inRange = _.some(this.state.layoutConfig.widths, (width) => {
+            if (currentWidth > width) {
+                this.setState({ width });
+                return true;
+            }
+            return false;
+        });
+        if (!inRange && this.state.width !== this.props.itemWidth) {
+            this.setState({width: this.props.itemWidth});
         }
     }
 
@@ -70,7 +85,7 @@ const BreakpointWidthProvider = class BreakpointWidthProvider extends React.Comp
                     width={this.state.width}
                     className="layout"
                     autoSize={false}
-                    layouts={layouts}
+                    layouts={this.state.layoutConfig.layouts}
                     breakpoints={this.state.layoutConfig.breakpoints}
                     cols={this.state.layoutConfig.cols}
                     rowHeight={169}
