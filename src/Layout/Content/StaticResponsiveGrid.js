@@ -9,10 +9,20 @@ const BreakpointWidthProvider = class BreakpointWidthProvider extends React.Comp
     constructor(props) {
         super(props);
         this.defaultProps = {
-            measureBeforeMount: false
+            measureBeforeMount: false,
         };
+        const layoutCount = props.maxWidth / props.itemWidth;
+        const layoutConfig = {
+            cols: {},
+            breakpoints: {},
+        };
+        for (let i = 0; i < layoutCount; i++) {
+            layoutConfig.cols[i] = i + 1;
+            layoutConfig.breakpoints[i] = i * props.itemWidth;
+        }
         this.state = {
-            width: 1280
+            width: props.maxWidth,
+            layoutConfig,
         };
         this.mounted = false;
     }
@@ -37,15 +47,15 @@ const BreakpointWidthProvider = class BreakpointWidthProvider extends React.Comp
 
         const currentWidth = window.innerWidth;
         if (currentWidth > 1600 && this.state !== 1600) {
-            this.setState({width: 1601});
+            this.setState({width: 1600});
         } else if (currentWidth > 1280 && this.state !== 1280) {
-            this.setState({width: 1281});
+            this.setState({width: 1280});
         } else if (currentWidth > 960 && this.state !== 960) {
-            this.setState({width: 961});
+            this.setState({width: 960});
         } else if (currentWidth > 640 && this.state !== 640) {
-            this.setState({width: 641});
+            this.setState({width: 640});
         } else if (currentWidth > 320 && this.state !== 320) {
-            this.setState({width: 321});
+            this.setState({width: 320});
         }
     }
 
@@ -61,8 +71,8 @@ const BreakpointWidthProvider = class BreakpointWidthProvider extends React.Comp
                     className="layout"
                     autoSize={false}
                     layouts={layouts}
-                    breakpoints={{lg: 1600, md: 1280, sm: 960, xs: 640, xxs: 320}}
-                    cols={{lg: 5, md: 4, sm: 3, xs: 2, xxs: 1}}
+                    breakpoints={this.state.layoutConfig.breakpoints}
+                    cols={this.state.layoutConfig.cols}
                     rowHeight={169}
                 >
                     {this.props.items}

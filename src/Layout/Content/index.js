@@ -16,7 +16,7 @@ const Content = () => {
     });
 
     return (
-        <FileGrid items={files} />
+        <FileGrid itemWidth={320} maxWidth={1600} items={files} />
     );
 }
 

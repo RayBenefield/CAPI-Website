@@ -39,11 +39,11 @@ const xxsLayout = [
 ];
 
 const layouts = {
-    lg: lgLayout,
-    md: mdLayout,
-    sm: smLayout,
-    xs: xsLayout,
-    xxs: xxsLayout,
+    '4': lgLayout,
+    '3': mdLayout,
+    '2': smLayout,
+    '1': xsLayout,
+    '0': xxsLayout,
 };
 
 export default layouts;
