@@ -1,0 +1,154 @@
+{
+    "Results": [
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "792d39e7-e4f0-4fcf-a124-daffabf7c934",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Dawn",
+            "Description": "Dawn",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2015-12-17T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2015-12-20T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "97be3ed4-b4fa-4621-b10d-ffcbd9002eb8",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 3,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "5b908ba2-011e-4d2a-9c03-ea70275bdfa0",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Architect Proof",
+            "Description": "Architect Proof",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2015-12-16T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2015-12-18T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "2308a8db-b117-42c4-8cd1-15f99264a655",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 2,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "5b908ba2-011e-4d2a-9c03-ea70275bdfa0",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "The Bunker",
+            "Description": "The Bunker",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2015-12-17T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2015-12-17T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "01a7285c-066b-4a45-b3af-1afd8ca43151",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "5b908ba2-011e-4d2a-9c03-ea70275bdfa0",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "The Bunker ?",
+            "Description": "The Bunker ?",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2015-12-17T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2015-12-17T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "bc3419e0-da7c-4aad-81bc-da4bb5248fca",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 0,
+                "HasCallerBookmarked": false
+            }
+        },
+        {
+            "BaseMap": {
+                "ResourceType": 9,
+                "ResourceId": "5b908ba2-011e-4d2a-9c03-ea70275bdfa0",
+                "OwnerType": 3,
+                "Owner": null
+            },
+            "Name": "Architect",
+            "Description": "Architect",
+            "AccessControl": 0,
+            "Links": {},
+            "CreationTimeUtc": {
+                "ISO8601Date": "2015-12-16T00:00:00Z"
+            },
+            "LastModifiedTimeUtc": {
+                "ISO8601Date": "2015-12-16T00:00:00Z"
+            },
+            "Banned": false,
+            "Identity": {
+                "ResourceType": 3,
+                "ResourceId": "8c9279cb-0c7d-46f0-b79c-aa3cae5d2164",
+                "OwnerType": 1,
+                "Owner": "Ray Benefield"
+            },
+            "Stats": {
+                "BookmarkCount": 2,
+                "HasCallerBookmarked": false
+            }
+        }
+    ],
+    "Start": 100,
+    "Count": 100,
+    "ResultCount": 5,
+    "TotalCount": 105,
+    "Links": {}
+}
