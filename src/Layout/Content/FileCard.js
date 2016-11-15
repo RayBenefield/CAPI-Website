@@ -9,14 +9,16 @@ const MapCard = (props) => {
         <div {...cardProps}>
             <Card className="card">
                 <CardMedia
-                    overlay={<CardTitle title={file.name} style={{ 'font-size': '16px' }} />}
+                    overlay={
+                        <CardTitle title={file.name} titleStyle={{ 'font-size': '20px', 'line-height': '12px' }} />
+                    }
                 >
                     <img src={file.image} alt='nature' />
                 </CardMedia>
             </Card>
             {props.children}
         </div>
-    )
+    );
 };
 
 export default MapCard;
