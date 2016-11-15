@@ -11,7 +11,7 @@ const Content = () => {
         image: mapImg,
     };
 
-    const files = [0, 1, 2, 3, 4].map((id) => {
+    const files = Array.apply(null, {length: 1000}).map(Number.call, Number).map((id) => {
         return <FileCard key={id.toString()} fileData={data} />;
     });
 
