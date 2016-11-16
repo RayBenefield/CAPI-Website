@@ -1,0 +1,59 @@
+ - Show all Map and Gametype files
+ - Consolidate all versions of a file into one
+ - Provide a change log for when a new version or an updated version of a Map/Gametype
+ - Comments on a single file belong to the full project (comment on MapName 1.0.0 will be in the same thread for MapName 2.0.0)
+ - Discover custom games being played on Content
+ - Review other maps with wordy reviews that can be appreciated or disregarded
+ - For every appreciated Review you give, you're Content is promoted on the front page until you have the same amount of reviews
+ - CAPI is the brains of your BFF
+ - Natural Language chatbot that gives access to actions available to the website, consider it shortcut navigation
+ - Get play statistics including weapons, scores, play times, etc.
+ - Compare play statistics between versions of your map
+ - Special support for Forge SemVer where each version number means something
+ - Support for team collaboration
+ - Track contributions for a map
+ - Fully customizable Content posts using a drag, resize, and fill [DRF] UI
+ - Your BFF will always check in with you with TODO items to check off and review
+ - Help power your development notes as your BFF asks you to document any changes to a recent version of a map
+ - Mobile push notifications to give feedback when possible
+ - Fully mobile accessible
+ - Post a "Playtest Bounty", and watch as individuals add your bounty to their list, play your content, and then post feedback... all dynamically tracked by CAPI
+ - Appreciated actions work as "points", every appreciated action can be spent to request a review for your map, post a playtest bounty
+ - Handle team ownership
+ - Allow for customizable DRF profile pages
+ - Allow for customizable DRF blog posts
+ - Discover information from Forgehub post
+ - Discover reddit post
+ - Discover videos made for your map
+ - Improve curation capabilities for 343
+ - Reviews given are always qualified with games played before review, in addition to statistics about those games
+ - Discover screenshots and upload screenshots for your content
+ - Discover montage clippable moments with event discovery
+ - Get a heatmaps
+ - Tie into ATN for greenlighting process
+ - Allow any length, but any post that could be a tweet don't need to be read and clogging up the feed, so they will be hidden or delegated to a smaller section
+ - Re-organize your personal portfolio
+ - Publishing posts will require a tad bit more work and will reduce the amount of maps fully published on the site
+ - Appreciation points will be dolled out every month to support those who don't have as much time to make quality reviews
+ - Starting Appreciation points will be given for joining the site
+ - Gamertags will use a verification code process
+ - Budgeting for CAPI will be calculated or estimated and it will always be obvious the cost of adding a player to the system
+ - A not for profit website, all funding goes into enabling features
+ - Partner with Youtubers to enable them to make videos and get them recognized
+ - Improve collaboration efforts by communicating most recent versions of content
+ - Use progress bars liberally to gamify system
+ - Appreciation points are given for each part of the process (playtesting for a bounty gives some points, commenting feedback gives more points)
+ - Subscribe to your favorite forgers
+ - Search by least/most playtested, least/most reviews, etc.
+ - Track bookmarking trends
+ - Support reference image gathering
+ - Track lobbies recently in progress
+ - Determine play times for players based on activity
+ - Host twitch integration for when people are playing customs and streaming
+ - Play certain gametypes in game to trigger actions in CAPI
+ - Play a gametype for screenshoting so CAPI nows to hunt down those screenshots
+ - Play a gamteype to submit your map for review and use an appreciation point
+ - Play a gametype to start a playtest bounty for your map to use up appreciation points
+ - Appreciation points are tracked in large increments to provide the opportunity for smaller rewards and smaller costs
+ - Limited time events to promote more appreciation point gathering
+ - Focus on Appreciation of time spent, and spending that appreciation for self promotion
