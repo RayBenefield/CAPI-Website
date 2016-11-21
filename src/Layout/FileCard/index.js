@@ -3,7 +3,7 @@ import { CardTitle, CardMedia } from 'material-ui/Card';
 import Paper from 'material-ui/Paper';
 import './index.css';
 
-const MapCard = ({ className, style, fileData: file }) => {
+const FileCard = ({ className, style, file }) => {
     return (
         <div className={className} style={style}>
             <Paper className="card">
@@ -19,4 +19,4 @@ const MapCard = ({ className, style, fileData: file }) => {
     );
 };
 
-export default MapCard;
+export default FileCard;
