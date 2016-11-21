@@ -1,6 +1,7 @@
 import _ from 'underscore';
 import React from "react";
 import { Responsive } from 'react-grid-layout';
+import './index.css';
 
 /*
  * A simple HOC that provides facility for listening to container resizes.

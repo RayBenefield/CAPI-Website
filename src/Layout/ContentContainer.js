@@ -9,7 +9,6 @@ const mapStateToProps = (state) => {
 
 const ContentContainer = connect(
   mapStateToProps
-)(Content)
+)(Content);
 
-export default ContentContainer
-
+export default ContentContainer;

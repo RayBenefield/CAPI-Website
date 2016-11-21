@@ -1,6 +1,7 @@
 import React from 'react';
 import { CardTitle, CardMedia } from 'material-ui/Card';
 import Paper from 'material-ui/Paper';
+import './index.css';
 
 const MapCard = ({ className, style, fileData: file }) => {
     return (
