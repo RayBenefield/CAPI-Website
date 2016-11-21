@@ -64,7 +64,9 @@ const BreakpointWidthProvider = class BreakpointWidthProvider extends React.Comp
         const currentWidth = window.innerWidth;
         const inRange = _.some(this.state.layoutConfig.widths, (width) => {
             if (currentWidth > width) {
-                this.setState({ width });
+                if (this.state.width !== width) {
+                    this.setState({ width });
+                }
                 return true;
             }
             return false;
