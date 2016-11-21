@@ -1,13 +1,10 @@
-import _ from 'underscore';
 import React from 'react';
 import { CardTitle, CardMedia } from 'material-ui/Card';
 import Paper from 'material-ui/Paper';
 
-const MapCard = (props) => {
-    const cardProps = _.omit(props, 'fileData');
-    const { fileData: file } = props;
+const MapCard = ({ className, style, fileData: file }) => {
     return (
-        <div {...cardProps}>
+        <div className={className} style={style}>
             <Paper className="card">
                 <CardMedia
                     overlay={
