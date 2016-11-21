@@ -1,22 +1,22 @@
 import _ from 'underscore';
 import React from 'react';
-import { Card, CardTitle, CardMedia } from 'material-ui/Card';
+import { CardTitle, CardMedia } from 'material-ui/Card';
+import Paper from 'material-ui/Paper';
 
 const MapCard = (props) => {
-    const cardProps = _.omit(props, 'children', 'fileData');
+    const cardProps = _.omit(props, 'fileData');
     const { fileData: file } = props;
     return (
         <div {...cardProps}>
-            <Card className="card">
+            <Paper className="card">
                 <CardMedia
                     overlay={
-                        <CardTitle title={file.name} titleStyle={{ 'font-size': '20px', 'line-height': '12px' }} />
+                        <CardTitle title={file.name} titleStyle={{ fontSize: '20px', lineHeight: '12px' }} />
                     }
                 >
                     <img src={file.image} alt='nature' />
                 </CardMedia>
-            </Card>
-            {props.children}
+            </Paper>
         </div>
     );
 };
