@@ -6,10 +6,12 @@ import './index.css';
 const Header = () => (
     <Paper
         className="App-header"
-        zDepth={4}
+        zDepth={5}
         style={{
             boxSizing: 'content-box',
             backgroundColor: '#212121',
+            zIndex: 5,
+            position: 'relative',
         }}
     >
         <img src={logo} className="App-logo" alt="logo" />

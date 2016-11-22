@@ -1,4 +1,5 @@
 .layout {
     margin: auto;
-    padding-top: 10px;
+    height: 900px;
+    overflow-y: scroll;
 }
