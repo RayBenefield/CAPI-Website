@@ -1,0 +1,6 @@
+exports[`test renders without crashing 1`] = `
+<BreakpointWidthProvider
+  itemWidth={320}
+  items={Array []}
+  maxWidth={1600} />
+`;

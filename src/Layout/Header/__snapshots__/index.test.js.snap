@@ -1,0 +1,24 @@
+exports[`test renders without crashing 1`] = `
+<Paper
+  circle={false}
+  className="App-header"
+  rounded={true}
+  style={
+    Object {
+      "backgroundColor": "#212121",
+      "boxSizing": "content-box",
+      "position": "relative",
+      "zIndex": 5
+    }
+  }
+  transitionEnabled={true}
+  zDepth={5}>
+  <img
+    alt="logo"
+    className="App-logo"
+    src="test-file-stub" />
+  <h2>
+    Halo File Management
+  </h2>
+</Paper>
+`;
