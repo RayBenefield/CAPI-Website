@@ -1,4 +1,3 @@
- - Replace react-test-renderer with enzyme
  - Create tests for all of the components
  - Set the height of the content grid on window resize
  - Added Action dispatching system to load content
