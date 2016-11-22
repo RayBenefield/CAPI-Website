@@ -1,6 +1,7 @@
 import _ from 'underscore';
 import React from "react";
 import { Responsive } from 'react-grid-layout';
+import calculateLayout from './calculate-layout';
 import './index.css';
 
 /*
@@ -13,30 +14,7 @@ const BreakpointWidthProvider = class BreakpointWidthProvider extends React.Comp
             measureBeforeMount: false,
         };
         const layoutCount = props.maxWidth / props.itemWidth;
-        const layoutConfig = {
-            cols: {},
-            breakpoints: {},
-            widths: [],
-            layouts: {},
-        };
-        for (let i = 0; i < layoutCount; i++) {
-            layoutConfig.widths.push((i+1) * props.itemWidth);
-            layoutConfig.cols[i] = i + 1;
-            layoutConfig.breakpoints[i] = i * props.itemWidth;
-            layoutConfig.layouts[i] = [];
-
-            for (let j = 0; j < props.items.length; j++) {
-                layoutConfig.layouts[i].push({
-                    i: j.toString(),
-                    x: j % (i + 1),
-                    y: Math.floor(j / (i + 1)),
-                    w: 1,
-                    h: 1,
-                    static: true,
-                });
-            }
-        }
-        layoutConfig.widths.reverse();
+        const layoutConfig = calculateLayout(layoutCount, props.items.length, props.itemWidth);
         this.state = {
             width: props.maxWidth,
             layoutConfig,
