@@ -1,5 +1,4 @@
 import React from 'react';
-import muiThemeable from 'material-ui/styles/muiThemeable';
 import FileGrid from '../StaticResponsiveGrid';
 import FileCard from '../FileCard';
 
@@ -14,4 +13,4 @@ const Content = ({files}) => {
     );
 }
 
-export default muiThemeable()(Content);
+export default Content;
