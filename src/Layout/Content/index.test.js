@@ -1,10 +1,9 @@
 import React from 'react';
-import renderer from 'react-test-renderer';
+import { shallow } from 'enzyme';
+import { shallowToJson } from 'enzyme-to-json';
 import Content from '.';
 
-describe('App Content', () => {
-    it('looks how we want it to look', () => {
-        const content = renderer.create(<Content />).toJSON();
-        expect(content).toMatchSnapshot();
-    });
+it('renders without crashing', () => {
+    const wrapper = shallow(<Content />);
+    expect(shallowToJson(wrapper)).toMatchSnapshot();
 });
