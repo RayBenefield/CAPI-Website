@@ -1,12 +1,20 @@
 import React from 'react';
+import Paper from 'material-ui/Paper';
 import logo from './logo.svg';
 import './index.css';
 
 const Header = () => (
-    <div className="App-header">
+    <Paper
+        className="App-header"
+        zDepth={4}
+        style={{
+            boxSizing: 'content-box',
+            backgroundColor: '#212121',
+        }}
+    >
         <img src={logo} className="App-logo" alt="logo" />
         <h2>Halo File Management</h2>
-    </div>
+    </Paper>
 );
 
 export default Header;

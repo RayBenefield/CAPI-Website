@@ -6,7 +6,7 @@ import './index.css';
 const FileCard = ({ className, style, file }) => {
     return (
         <div className={className} style={style}>
-            <Paper className="card">
+            <Paper className="card" zDepth={2}>
                 <CardMedia
                     overlay={
                         <CardTitle title={file.name} titleStyle={{ fontSize: '20px', lineHeight: '12px' }} />
