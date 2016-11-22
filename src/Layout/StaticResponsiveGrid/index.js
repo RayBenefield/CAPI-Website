@@ -16,6 +16,7 @@ const BreakpointWidthProvider = class BreakpointWidthProvider extends React.Comp
         const layoutCount = props.maxWidth / props.itemWidth;
         const layoutConfig = calculateLayout(layoutCount, props.items.length, props.itemWidth);
         this.state = {
+            rowHeight: props.itemHeight,
             width: props.maxWidth,
             layoutConfig,
         };
@@ -69,7 +70,7 @@ const BreakpointWidthProvider = class BreakpointWidthProvider extends React.Comp
                     layouts={this.state.layoutConfig.layouts}
                     breakpoints={this.state.layoutConfig.breakpoints}
                     cols={this.state.layoutConfig.cols}
-                    rowHeight={169}
+                    rowHeight={this.state.rowHeight}
                 >
                     {this.props.items}
                 </Responsive>
