@@ -4,3 +4,6 @@
  - Add FAB and call to action to initialize the file load
  - Impersonate a server call using redux-observable and a delay to fetch the data
  - Use redux to handle the responsive grid
+ - Add ability to change the image width on the UI
+ - Set the content height dynamically based on the window height
+ - Move the itemHeight to the store
