@@ -1,0 +1,7 @@
+ - Replace react-test-renderer with enzyme
+ - Create tests for all of the components
+ - Set the height of the content grid on window resize
+ - Added Action dispatching system to load content
+ - Add FAB and call to action to initialize the file load
+ - Impersonate a server call using redux-observable and a delay to fetch the data
+ - Use redux to handle the responsive grid
