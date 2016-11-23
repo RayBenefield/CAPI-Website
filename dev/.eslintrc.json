@@ -1,0 +1,24 @@
+{
+    "env": {
+        "jest": true
+    },
+    "extends": ["airbnb", "eslint:recommended", "plugin:react/recommended"],
+    "plugins": [
+        "react",
+        "jsx-a11y",
+        "import"
+    ],
+    "globals": {
+        "document": true,
+        "window": true
+    },
+    "rules": {
+        "indent": ["error", 4],
+        "import/no-extraneous-dependencies": ["error", {"devDependencies": true }],
+        "react/jsx-indent": ["error", 4],
+        "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+        "react/jsx-indent-props": 0,
+        "react/prefer-es6-class": 0,
+        "react/prop-types": 0
+    }
+}
