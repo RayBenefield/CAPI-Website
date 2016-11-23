@@ -7,3 +7,4 @@
  - Add ability to change the image width on the UI
  - Set the content height dynamically based on the window height
  - Move the itemHeight to the store
+ - Add a gulp task to deploy the project
