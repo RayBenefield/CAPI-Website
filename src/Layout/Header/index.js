@@ -5,10 +5,11 @@ import ContentAdd from 'material-ui/svg-icons/content/add';
 import logo from './logo.svg';
 import './index.css';
 
-const Header = () => (
+const Header = ({ onAddClick }) => (
     <Paper
         className="App-header"
         zDepth={5}
+        onClick={() => onAddClick()}
         style={{
             boxSizing: 'content-box',
             backgroundColor: '#212121',

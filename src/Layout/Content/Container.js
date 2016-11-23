@@ -8,7 +8,7 @@ const mapStateToProps = (state) => {
 };
 
 const ContentContainer = connect(
-  mapStateToProps
+    mapStateToProps
 )(Content);
 
 export default ContentContainer;
