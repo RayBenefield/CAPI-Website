@@ -56,6 +56,14 @@ const BreakpointWidthProvider = class BreakpointWidthProvider extends React.Comp
         }
     }
 
+    componentWillReceiveProps(nextProps) {
+        const layoutCount = nextProps.maxWidth / nextProps.itemWidth;
+        const layoutConfig = calculateLayout(layoutCount, nextProps.items.length, nextProps.itemWidth);
+        this.setState({
+            layoutConfig,
+        });
+    }
+
     render() {
         if (this.props.measureBeforeMount && !this.mounted) {
             return <div className={this.props.className} style={this.props.style} />;

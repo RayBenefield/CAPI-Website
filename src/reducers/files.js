@@ -4,13 +4,17 @@ import dataFile2 from '../data/maps-list-page-2.json';
 
 const data = dataFile1.Results.concat(dataFile2.Results);
 
-const files = () => {
-    return data.map((map) => {
-        return {
-            name: map.Name,
-            image: findImage(map.Identity.ResourceId),
-        };
-    })
+const files = (state, action) => {
+    switch (action.type) {
+        case 'LOAD_FILES':
+            return data.map((map) => {
+                return {
+                    name: map.Name,
+                    image: findImage(map.Identity.ResourceId),
+                };
+            })
+    }
+    return state;
 };
 
 export default files;
