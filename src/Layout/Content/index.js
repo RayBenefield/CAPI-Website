@@ -11,7 +11,7 @@ const Content = ({files}) => {
         });
 
     return (
-        <div className={'content'}>
+        <div className={'content'} style={{ height: '900px' }}>
             <div style={{ height: '20px' }} />
             <FileGrid
                 itemWidth={imageHeight}
