@@ -1,7 +1,21 @@
 exports[`test renders without crashing 1`] = `
-<BreakpointWidthProvider
-  itemHeight={180.32573289599998}
-  itemWidth={320}
-  items={Array []}
-  maxWidth={1600} />
+<div
+  className="content"
+  style={
+    Object {
+      "height": "undefinedpx"
+    }
+  }>
+  <div
+    style={
+      Object {
+        "height": "20px"
+      }
+    } />
+  <StaticResponsiveGrid
+    itemHeight={180.32573289599998}
+    itemWidth={320}
+    items={Array []}
+    maxWidth={1600} />
+</div>
 `;
