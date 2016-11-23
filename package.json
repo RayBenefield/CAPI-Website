@@ -1,36 +1,36 @@
 {
-  "name": "capi-website",
-  "version": "0.0.1",
-  "homepage": "http://raybenefield.github.io/CAPI-Website",
-  "private": true,
-  "devDependencies": {
-    "enzyme": "^2.5.1",
-    "enzyme-to-json": "^1.1.4",
-    "react-addons-test-utils": "^15.3.2",
-    "react-scripts": "0.6.1",
-    "redux-observable": "^0.12.2",
-    "@kadira/storybook": "^2.21.0"
-  },
-  "dependencies": {
-    "immutable": "^3.8.1",
-    "material-ui": "^0.16.1",
-    "react": "^15.3.2",
-    "react-dom": "^15.3.2",
-    "react-grid-layout": "^0.13.9",
-    "react-redux": "^4.4.5",
-    "react-resizable": "^1.4.5",
-    "react-tap-event-plugin": "^1.0.0",
-    "redux": "^3.6.0",
-    "redux-form": "^6.1.1",
-    "rxjs": "^5.0.0-rc.1",
-    "underscore": "^1.8.3"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject",
-    "storybook": "start-storybook -p 9009 -s public",
-    "build-storybook": "build-storybook -s public"
-  }
+    "name": "capi-website",
+    "version": "0.0.1",
+    "homepage": "http://raybenefield.github.io/CAPI-Website",
+    "private": true,
+    "devDependencies": {
+        "enzyme": "^2.5.1",
+        "enzyme-to-json": "^1.1.4",
+        "react-addons-test-utils": "^15.3.2",
+        "react-scripts": "0.6.1",
+        "redux-observable": "^0.12.2",
+        "@kadira/storybook": "^2.21.0"
+    },
+    "dependencies": {
+        "immutable": "^3.8.1",
+        "material-ui": "^0.16.1",
+        "react": "^15.3.2",
+        "react-dom": "^15.3.2",
+        "react-grid-layout": "^0.13.9",
+        "react-redux": "^4.4.5",
+        "react-resizable": "^1.4.5",
+        "react-tap-event-plugin": "^1.0.0",
+        "redux": "^3.6.0",
+        "redux-form": "^6.1.1",
+        "rxjs": "^5.0.0-rc.1",
+        "underscore": "^1.8.3"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject",
+        "storybook": "start-storybook -p 9009 -s public",
+        "build-storybook": "build-storybook -s public"
+    }
 }
