@@ -1,6 +1,7 @@
 import React from 'react';
 import FileGrid from '../StaticResponsiveGrid';
 import FileCard from '../FileCard';
+import './index.css';
 
 const Content = ({files}) => {
     const imageHeight = 320;
@@ -10,7 +11,14 @@ const Content = ({files}) => {
         });
 
     return (
-        <FileGrid itemWidth={imageHeight} itemHeight={imageHeight * 0.5635179153} maxWidth={1600} items={fileCards} />
+        <div className={'content'}>
+            <FileGrid
+                itemWidth={imageHeight}
+                itemHeight={imageHeight * 0.5635179153}
+                maxWidth={1600}
+                items={fileCards}
+            />
+        </div>
     );
 }
 
