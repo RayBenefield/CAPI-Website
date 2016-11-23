@@ -12,6 +12,7 @@ const Content = ({files}) => {
 
     return (
         <div className={'content'}>
+            <div style={{ height: '20px' }} />
             <FileGrid
                 itemWidth={imageHeight}
                 itemHeight={imageHeight * 0.5635179153}
