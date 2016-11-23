@@ -7,7 +7,7 @@ import './index.css';
 /*
  * A simple HOC that provides facility for listening to container resizes.
  */
-const BreakpointWidthProvider = class BreakpointWidthProvider extends React.Component {
+const StaticResponsiveGrid = class StaticResponsiveGrid extends React.Component {
     constructor(props) {
         super(props);
         this.defaultProps = {
@@ -87,4 +87,4 @@ const BreakpointWidthProvider = class BreakpointWidthProvider extends React.Comp
     }
 };
 
-export default BreakpointWidthProvider;
+export default StaticResponsiveGrid;
