@@ -11,7 +11,7 @@ const App = () => (
     <MuiThemeProvider muiTheme={getMuiTheme(darkBaseTheme)}>
         <div className="App">
             <Header />
-            <Content />
+            <Content height={900} />
         </div>
     </MuiThemeProvider>
 );

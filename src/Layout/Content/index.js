@@ -3,7 +3,7 @@ import FileGrid from '../StaticResponsiveGrid';
 import FileCard from '../FileCard';
 import './index.css';
 
-const Content = ({files}) => {
+const Content = ({files, height}) => {
     const imageHeight = 320;
     const fileCards = files
         .map((file, id) => {
@@ -11,8 +11,8 @@ const Content = ({files}) => {
         });
 
     return (
-        <div className={'content'} style={{ height: '900px' }}>
-            <div style={{ height: '20px' }} />
+        <div className={'content'} style={{ height: `${height}px` }}>
+            <div style={{ height: `20px` }} />
             <FileGrid
                 itemWidth={imageHeight}
                 itemHeight={imageHeight * 0.5635179153}
