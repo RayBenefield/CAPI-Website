@@ -2,14 +2,14 @@ exports[`test renders without crashing 1`] = `
 <Paper
   circle={false}
   className="App-header"
-  onClick={[Function onClick]}
+  onClick={[Function]}
   rounded={true}
   style={
     Object {
       "backgroundColor": "#212121",
       "boxSizing": "content-box",
       "position": "relative",
-      "zIndex": 5
+      "zIndex": 5,
     }
   }
   transitionEnabled={true}
@@ -29,7 +29,7 @@ exports[`test renders without crashing 1`] = `
       Object {
         "position": "absolute",
         "right": "50px",
-        "top": "165px"
+        "top": "165px",
       }
     }
     zDepth={4}>

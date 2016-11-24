@@ -3,13 +3,13 @@ exports[`test renders without crashing 1`] = `
   className="content"
   style={
     Object {
-      "height": "undefinedpx"
+      "height": "undefinedpx",
     }
   }>
   <div
     style={
       Object {
-        "height": "20px"
+        "height": "20px",
       }
     } />
   <StaticResponsiveGrid

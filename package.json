@@ -4,12 +4,17 @@
     "homepage": "http://raybenefield.github.io/CAPI-Website",
     "private": true,
     "devDependencies": {
+        "@kadira/storybook": "^2.21.0",
+        "babel-jest": "^16.0.0",
+        "babel-polyfill": "^6.16.0",
+        "babel-preset-es2015": "^6.16.0",
+        "babel-preset-react": "^6.16.0",
         "enzyme": "^2.5.1",
         "enzyme-to-json": "^1.1.4",
+        "jest": "^16.0.1",
         "react-addons-test-utils": "^15.3.2",
         "react-scripts": "0.6.1",
-        "redux-observable": "^0.12.2",
-        "@kadira/storybook": "^2.21.0"
+        "redux-observable": "^0.12.2"
     },
     "dependencies": {
         "immutable": "^3.8.1",
@@ -28,9 +33,18 @@
     "scripts": {
         "start": "react-scripts start",
         "build": "react-scripts build",
-        "test": "react-scripts test --env=jsdom",
+        "test": "jest --watch",
         "eject": "react-scripts eject",
         "storybook": "start-storybook -p 9009 -s public",
         "build-storybook": "build-storybook -s public"
+    },
+    "jest": {
+        "notify": true,
+        "env": "jsdom",
+        "moduleFileExtensions": [ "js", "json", "jsx" ],
+        "moduleNameMapper": {
+            "^.+\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "<rootDir>/config/jest/FileStub.js",
+            "^.+\\.css$": "<rootDir>/config/jest/CSSStub.js"
+        }
     }
 }
