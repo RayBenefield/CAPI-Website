@@ -3,7 +3,7 @@ import Content from '.';
 
 const mapStateToProps = (state) => {
     return {
-        files: state
+        files: state.get('files').toArray()
     };
 };
 
