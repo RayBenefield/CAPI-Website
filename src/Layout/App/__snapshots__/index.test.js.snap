@@ -417,9 +417,10 @@ exports[`test renders without crashing 1`] = `
   }>
   <div
     className="App">
-    <Connect(Header) />
+    <Connect(Header)
+      id="header" />
     <Connect(Content)
-      height={900} />
+      height={NaN} />
   </div>
 </MuiThemeProvider>
 `;

@@ -5,8 +5,9 @@ import ContentAdd from 'material-ui/svg-icons/content/add';
 import logo from './logo.svg';
 import './index.css';
 
-const Header = ({ onAddClick }) => (
+const Header = ({ id, onAddClick }) => (
     <Paper
+        id={id}
         className="App-header"
         zDepth={5}
         onClick={() => onAddClick()}

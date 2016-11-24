@@ -2,6 +2,7 @@ exports[`test renders without crashing 1`] = `
 <Paper
   circle={false}
   className="App-header"
+  id={undefined}
   onClick={[Function]}
   rounded={true}
   style={
