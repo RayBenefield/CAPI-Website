@@ -1,7 +1,13 @@
  - Create tests for all of the components
- - Set the height of the content grid on window resize
  - Impersonate a server call using redux-observable and a delay to fetch the data
  - Use redux to handle the responsive grid
  - Add ability to change the image width on the UI
  - Move the itemHeight to the store
  - Add a gulp task to deploy the project
+ - Dynamically position the FAB based on the header height
+ - Anchor the title and logo to the header
+ - Add zdepth changing based on mouse over for filecards
+ - Calculate between a fully expanded state and a fully collapsed state
+ - Figure out how to utilize Jekyll for hosting a single page application blog
+ - Figure out how to run a websocket server and connect the static page to it
+ - Introduce categories for files with sticky headers

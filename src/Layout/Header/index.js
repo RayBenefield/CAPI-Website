@@ -10,7 +10,6 @@ const Header = ({ id, onAddClick }) => (
         id={id}
         className="App-header"
         zDepth={5}
-        onClick={() => onAddClick()}
         style={{
             boxSizing: 'content-box',
             backgroundColor: '#212121',
@@ -27,6 +26,7 @@ const Header = ({ id, onAddClick }) => (
                 top: '165px',
                 right: '50px',
             }}
+            onClick={() => onAddClick()}
         >
             <ContentAdd />
         </Fab>

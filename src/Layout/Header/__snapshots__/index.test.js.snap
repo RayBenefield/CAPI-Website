@@ -3,7 +3,6 @@ exports[`test renders without crashing 1`] = `
   circle={false}
   className="App-header"
   id={undefined}
-  onClick={[Function]}
   rounded={true}
   style={
     Object {
@@ -25,6 +24,7 @@ exports[`test renders without crashing 1`] = `
   <FloatingActionButton
     disabled={false}
     mini={false}
+    onClick={[Function]}
     secondary={false}
     style={
       Object {
