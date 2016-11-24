@@ -6,7 +6,6 @@ import Header from '../Header/Container';
 import Content from '../Content/Container';
 import './index.css';
 
-darkBaseTheme.palette.backgroundColor = '#424242';
 const App = () => (
     <MuiThemeProvider muiTheme={getMuiTheme(darkBaseTheme)}>
         <div className="App">
