@@ -9,12 +9,12 @@ const data = dataFile1.Results.concat(dataFile2.Results);
 const files = (state, action) => {
     switch (action.type) {
         case LOAD_FILES:
-            return state.set('files', List.of(...data.map((map) => {
+            return List.of(...data.map((map) => {
                 return {
                     name: map.Name,
                     image: findImage(map.Identity.ResourceId),
                 };
-            })));
+            }));
     }
     return state;
 };
