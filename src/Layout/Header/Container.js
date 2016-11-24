@@ -1,11 +1,12 @@
 import { connect } from 'react-redux';
 import Header from '.';
+import { loadFiles } from '../../data/actionCreators';
 
 const mapStateToProps = () => ({});
 const mapDispatchToProps = (dispatch) => {
     return {
         onAddClick: () => {
-            dispatch({ type: 'LOAD_FILES' })
+            dispatch(loadFiles())
         }
     }
 }
