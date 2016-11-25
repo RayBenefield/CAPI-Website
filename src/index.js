@@ -5,7 +5,6 @@ import 'react-resizable/css/styles.css';
 import { Provider } from 'react-redux';
 import { createStore } from 'redux';
 import { combineReducers } from 'redux-immutable';
-import { Map, List } from 'immutable';
 import { resizeLayout } from './data/actionCreators';
 import files from './reducers/files';
 import layout from './reducers/layout';

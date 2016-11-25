@@ -11,6 +11,11 @@
         "babel-preset-react": "^6.16.0",
         "enzyme": "^2.5.1",
         "enzyme-to-json": "^1.1.4",
+        "eslint": "^3.10.2",
+        "eslint-config-airbnb": "^13.0.0",
+        "eslint-plugin-import": "^2.1.0",
+        "eslint-plugin-jsx-a11y": "^2.2.3",
+        "eslint-plugin-react": "^6.7.1",
         "jest": "^16.0.1",
         "react-addons-test-utils": "^15.3.2",
         "react-scripts": "0.6.1",
@@ -37,7 +42,8 @@
         "test": "jest --watch",
         "eject": "react-scripts eject",
         "storybook": "start-storybook -p 9009 -s public",
-        "build-storybook": "build-storybook -s public"
+        "build-storybook": "build-storybook -s public",
+        "lint": "eslint src/ -c .eslintrc.json"
     },
     "jest": {
         "notify": true,
