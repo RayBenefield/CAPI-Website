@@ -69,14 +69,16 @@ const StaticResponsiveGrid = class StaticResponsiveGrid extends React.Component 
             return <div className={this.props.className} style={this.props.style} />;
         }
 
+        const layoutCount = this.props.maxWidth / this.props.itemWidth;
+        const layoutConfig = calculateLayout(layoutCount, this.props.items.length, this.props.itemWidth);
         return (
             <div className="layout" style={{ width: `${this.state.width}px` }}>
                 <Responsive
                     width={this.state.width}
                     className="layout"
                     autoSize={false}
-                    layouts={this.state.layoutConfig.layouts}
-                    breakpoints={this.state.layoutConfig.breakpoints}
+                    layouts={layoutConfig.layouts}
+                    breakpoints={layoutConfig.breakpoints}
                     cols={this.state.layoutConfig.cols}
                     rowHeight={this.state.rowHeight}
                 >
