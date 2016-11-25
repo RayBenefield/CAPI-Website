@@ -1,5 +1,5 @@
 import React from 'react';
-import FileGrid from '../StaticResponsiveGrid';
+import FileGrid from '../StaticResponsiveGrid/Container';
 import FileCard from '../FileCard';
 import './index.css';
 
