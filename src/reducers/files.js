@@ -6,7 +6,7 @@ import dataFile2 from '../data/maps-list-page-2.json';
 
 const data = dataFile1.Results.concat(dataFile2.Results);
 
-const files = (state, action) => {
+const files = (state = List(), action) => {
     switch (action.type) {
         case LOAD_FILES:
             return List.of(...data.map((map) => {

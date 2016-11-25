@@ -8,15 +8,15 @@ import { combineReducers } from 'redux-immutable';
 import { Map, List } from 'immutable';
 import { resizeLayout } from './data/actionCreators';
 import files from './reducers/files';
+import layout from './reducers/layout';
 import App from './Layout/App';
 import './index.css';
 
 const reducers = combineReducers({
     files,
+    layout,
 });
-const store = createStore(reducers, Map({
-    files: List(),
-}), window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__());
+const store = createStore(reducers, window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__());
 
 window.addEventListener('resize', () => store.dispatch(resizeLayout()));
 store.dispatch(resizeLayout())
