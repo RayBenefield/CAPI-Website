@@ -9,7 +9,7 @@ const layout = (state = Map(), action) => {
             newState = state.set('window', _.omit(action, 'type'));
             const header = document.getElementById('header');
             newState = newState.set('header', {
-                height: header ? header.clientHeight : 0,
+                height: header ? header.clientHeight : 150,
                 width: header ? header.clientWidth : 0,
             });
             return newState;
