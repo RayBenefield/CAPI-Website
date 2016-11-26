@@ -5,7 +5,7 @@ import 'react-resizable/css/styles.css';
 import { Provider } from 'react-redux';
 import { createStore } from 'redux';
 import { combineReducers } from 'redux-immutable';
-import { resizeLayout } from './data/actionCreators';
+import { resizeLayout, resizeItems } from './data/actionCreators';
 import * as reducers from './reducers';
 import App from './Layout/App/Container';
 import './index.css';
@@ -15,6 +15,7 @@ const store = createStore(allReducers, window.__REDUX_DEVTOOLS_EXTENSION__ && wi
 
 window.addEventListener('resize', () => store.dispatch(resizeLayout()));
 store.dispatch(resizeLayout());
+store.dispatch(resizeItems());
 
 ReactDOM.render(
     <Provider store={store}>

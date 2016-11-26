@@ -1,5 +1,5 @@
 /* eslint-disable import/prefer-default-export */
-import { LOAD_FILES, RESIZE_LAYOUT } from './actions';
+import { LOAD_FILES, RESIZE_LAYOUT, RESIZE_ITEMS } from './actions';
 
 export function loadFiles(gamertag) {
     return {
@@ -13,5 +13,12 @@ export function resizeLayout() {
         type: RESIZE_LAYOUT,
         height: window.innerHeight,
         width: window.innerWidth,
+    };
+}
+
+export function resizeItems(width = 320) {
+    return {
+        type: RESIZE_ITEMS,
+        width,
     };
 }
