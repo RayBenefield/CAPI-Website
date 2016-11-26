@@ -420,7 +420,7 @@ exports[`test renders without crashing 1`] = `
     <Connect(Header)
       id="header" />
     <Connect(Content)
-      height={900} />
+      height={750} />
   </div>
 </MuiThemeProvider>
 `;
