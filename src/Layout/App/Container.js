@@ -2,9 +2,7 @@ import { connect } from 'react-redux';
 import App from '.';
 
 const mapStateToProps = (state) => {
-    return {
-        window: state.getIn(['layout', 'window'])
-    };
+    return state.get('layout').toObject();
 };
 
 const AppContainer = connect(

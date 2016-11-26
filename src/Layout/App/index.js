@@ -7,14 +7,11 @@ import Content from '../Content/Container';
 import './index.css';
 
 const App = (props) => {
-    const header = document.getElementById('header')
-    let headerHeight = 0;
-    if (header) headerHeight = header.clientHeight;
     return (
         <MuiThemeProvider muiTheme={getMuiTheme(darkBaseTheme)}>
             <div className="App">
                 <Header id={'header'} />
-                <Content height={props.window.height - headerHeight} />
+                <Content height={props.window.height - props.header.height} />
             </div>
         </MuiThemeProvider>
     );
