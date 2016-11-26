@@ -12,7 +12,7 @@ exports[`test renders without crashing 1`] = `
         "height": "20px",
       }
     } />
-  <StaticResponsiveGrid
+  <Connect(StaticResponsiveGrid)
     itemHeight={180.32573289599998}
     itemWidth={320}
     items={Array []}

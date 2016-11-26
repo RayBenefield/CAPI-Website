@@ -2,7 +2,6 @@ exports[`test renders without crashing 1`] = `
 <Paper
   circle={false}
   className="App-header"
-  id={undefined}
   rounded={true}
   style={
     Object {

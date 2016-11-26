@@ -167,7 +167,7 @@ exports[`test renders without crashing 1`] = `
       "menuItem": Object {
         "dataHeight": 32,
         "height": 48,
-        "hoverColor": "rgba(255, 255, 255, 0.035)",
+        "hoverColor": "rgba(255, 255, 255, 0.1)",
         "padding": 24,
         "rightIconDesktopFill": "#757575",
         "selectedTextColor": "#ff4081",
@@ -360,7 +360,7 @@ exports[`test renders without crashing 1`] = `
         "borderColor": "rgba(255, 255, 255, 0.3)",
         "disabledTextColor": "rgba(255, 255, 255, 0.3)",
         "errorColor": "#f44336",
-        "floatingLabelColor": "rgba(255, 255, 255, 1)",
+        "floatingLabelColor": "rgba(255, 255, 255, 0.3)",
         "focusColor": "#0097a7",
         "hintColor": "rgba(255, 255, 255, 0.3)",
         "textColor": "rgba(255, 255, 255, 1)",
@@ -420,7 +420,7 @@ exports[`test renders without crashing 1`] = `
     <Connect(Header)
       id="header" />
     <Connect(Content)
-      height={NaN} />
+      height={900} />
   </div>
 </MuiThemeProvider>
 `;
