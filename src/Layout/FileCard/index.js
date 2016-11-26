@@ -20,7 +20,7 @@ const FileCard = React.createClass({
                 <Paper className="card" zDepth={this.state.depth} onMouseEnter={this.onHover} onMouseLeave={this.noHover} >
                     <CardMedia
                         overlay={
-                            <CardTitle title={file.name} titleStyle={{ fontSize: '20px', lineHeight: '12px' }} />
+                            <CardTitle title={file.name} titleStyle={{ fontSize: '20px', lineHeight: '20px' }} />
                         }
                     >
                         <img src={file.image} alt='nature' />
