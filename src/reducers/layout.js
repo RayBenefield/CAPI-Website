@@ -7,10 +7,10 @@ const layout = (state = Map(), action) => {
         case RESIZE_LAYOUT: {
             let newState = state;
             newState = newState.set('window', _.omit(action, 'type'));
-            const header = document.getElementById('header');
+            const shouldCollapse = newState.get('window').height < (160 + newState.get('item').height * 2);
             newState = newState.set('header', {
-                height: header ? header.clientHeight : 150,
-                width: header ? header.clientWidth : 0,
+                height: shouldCollapse ? 64 : 160,
+                width: newState.get('window').width,
             });
             return newState;
         }

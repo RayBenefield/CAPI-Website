@@ -14,8 +14,8 @@ const allReducers = combineReducers(reducers);
 const store = createStore(allReducers, window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__());
 
 window.addEventListener('resize', () => store.dispatch(resizeLayout()));
-store.dispatch(resizeLayout());
 store.dispatch(resizeItems());
+store.dispatch(resizeLayout());
 
 ReactDOM.render(
     <Provider store={store}>

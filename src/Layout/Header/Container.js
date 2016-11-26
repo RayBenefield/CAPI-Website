@@ -4,6 +4,7 @@ import { loadFiles } from '../../data/actionCreators';
 
 const mapStateToProps = (state) => ({
     header: state.getIn(['layout', 'header']),
+    window: state.getIn(['layout', 'window']),
 });
 const mapDispatchToProps = (dispatch) => {
     return {
