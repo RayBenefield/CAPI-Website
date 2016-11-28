@@ -5,8 +5,9 @@ const files = (state = List(), action) => {
     switch (action.type) {
         case FILES_LOADED:
             return action.files;
+        default:
+            return state;
     }
-    return state;
 };
 
 export default files;
