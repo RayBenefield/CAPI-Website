@@ -1,11 +1,13 @@
 import React from 'react';
 import Paper from 'material-ui/Paper';
 import Fab from 'material-ui/FloatingActionButton';
-import ContentAdd from 'material-ui/svg-icons/content/add';
+import Search from 'material-ui/svg-icons/action/search';
+import TextField from 'material-ui/TextField';
+import muiThemeable from 'material-ui/styles/muiThemeable';
 import logo from './logo.svg';
 import './index.css';
 
-const Header = ({ id, onAddClick, header, window }) => (
+const Header = ({ id, onAddClick, header, window, muiTheme }) => (
     <Paper
         id={id}
         className="App-header"
@@ -39,18 +41,39 @@ const Header = ({ id, onAddClick, header, window }) => (
                 left: '0px',
             }}
         >Halo File Management</h2>
-        <Fab
-            zDepth={4}
+        <div
             style={{
                 position: 'absolute',
                 top: `${(header.height < 100) ? window.height - 88 : header.height - 28}px`,
                 right: '50px',
             }}
-            onClick={() => onAddClick()}
         >
-            <ContentAdd />
-        </Fab>
+            <Paper
+                style={{
+                    width: '280px',
+                    background: '#006575',
+                    borderRadius: '20px',
+                    paddingTop: '0px',
+                    paddingLeft: '15px',
+                    position: 'absolute',
+                    top: '5px',
+                    right: '28px',
+                }}
+            >
+                <TextField
+                    hintText='Gamertag'
+                    style={{
+                        height: '42px',
+                        lineHeight: '18px',
+                        width: '280px',
+                    }}
+                />
+            </Paper>
+            <Fab zDepth={4} onClick={() => onAddClick()} >
+                <Search />
+            </Fab>
+        </div>
     </Paper>
 );
 
-export default Header;
+export default muiThemeable()(Header);
