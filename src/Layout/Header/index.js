@@ -1,10 +1,10 @@
 import React from 'react';
 import Paper from 'material-ui/Paper';
-import SearchFAB from '../SearchFAB';
+import SearchFAB from '../SearchFAB/Container';
 import logo from './logo.svg';
 import './index.css';
 
-const Header = ({ id, header, onClick, onChange, searching }) => (
+const Header = ({ id, header }) => (
     <Paper
         id={id}
         className="App-header"
@@ -38,7 +38,7 @@ const Header = ({ id, header, onClick, onChange, searching }) => (
                 left: '0px',
             }}
         >Halo File Management</h2>
-        <SearchFAB header={header} onClick={onClick} onChange={onChange} searching={searching} />
+        <SearchFAB />
     </Paper>
 );
 

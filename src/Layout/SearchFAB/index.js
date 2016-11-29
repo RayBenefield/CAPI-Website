@@ -4,7 +4,7 @@ import Fab from 'material-ui/FloatingActionButton';
 import Search from 'material-ui/svg-icons/action/search';
 import TextField from 'material-ui/TextField';
 
-const SearchFAB = ({ searching, onChange, onClick, header }) => (
+const SearchFAB = ({ searching, onChange, onClick, window, header }) => (
     <div
         style={{
             position: 'absolute',
