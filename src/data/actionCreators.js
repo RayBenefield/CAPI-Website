@@ -1,5 +1,5 @@
 /* eslint-disable import/prefer-default-export */
-import { LOAD_FILES, RESIZE_LAYOUT, RESIZE_ITEMS } from './actions';
+import { LOAD_FILES, RESIZE_LAYOUT, RESIZE_ITEMS, REQUEST_SEARCH } from './actions';
 
 export function loadFiles(gamertag) {
     return {
@@ -20,5 +20,11 @@ export function resizeItems(width = 320) {
     return {
         type: RESIZE_ITEMS,
         width,
+    };
+}
+
+export function requestSearch() {
+    return {
+        type: REQUEST_SEARCH,
     };
 }

@@ -4,7 +4,7 @@ import Fab from 'material-ui/FloatingActionButton';
 import Search from 'material-ui/svg-icons/action/search';
 import TextField from 'material-ui/TextField';
 
-const SearchFAB = ({ onAddClick, header }) => (
+const SearchFAB = ({ searching, onChange, onClick, header }) => (
     <div
         style={{
             position: 'absolute',
@@ -14,7 +14,7 @@ const SearchFAB = ({ onAddClick, header }) => (
     >
         <Paper
             style={{
-                width: '280px',
+                width: searching ? '280px' : '0px',
                 background: '#006575',
                 borderRadius: '20px',
                 paddingTop: '0px',
@@ -25,15 +25,16 @@ const SearchFAB = ({ onAddClick, header }) => (
             }}
         >
             <TextField
-                hintText='Gamertag'
+                hintText={searching ? 'Gamertag' : ''}
+                onChange={() => onChange()}
                 style={{
                     height: '42px',
                     lineHeight: '18px',
-                    width: '280px',
+                    width: searching ? '280px' : '0px',
                 }}
             />
         </Paper>
-        <Fab zDepth={4} onClick={() => onAddClick()} >
+        <Fab zDepth={4} onClick={() => onClick()} >
             <Search />
         </Fab>
     </div>

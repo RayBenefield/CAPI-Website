@@ -1,6 +1,6 @@
 import _ from 'underscore';
 import { Map } from 'immutable';
-import { RESIZE_LAYOUT, RESIZE_ITEMS } from '../data/actions';
+import { FILES_LOADED, RESIZE_LAYOUT, RESIZE_ITEMS, REQUEST_SEARCH } from '../data/actions';
 
 const layout = (state = Map(), action) => {
     switch (action.type) {
@@ -21,6 +21,14 @@ const layout = (state = Map(), action) => {
                 height: action.width * 0.5635179153,
             });
             return newState;
+        }
+        case REQUEST_SEARCH: {
+            let newState = state;
+            newState = newState.set('searching', true);
+            return newState;
+        }
+        case FILES_LOADED: {
+            return state.set('searching', false);
         }
         default:
             return state;

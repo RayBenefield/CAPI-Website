@@ -4,7 +4,7 @@ import SearchFAB from '../SearchFAB';
 import logo from './logo.svg';
 import './index.css';
 
-const Header = ({ id, header }) => (
+const Header = ({ id, header, onClick, onChange, searching }) => (
     <Paper
         id={id}
         className="App-header"
@@ -38,7 +38,7 @@ const Header = ({ id, header }) => (
                 left: '0px',
             }}
         >Halo File Management</h2>
-        <SearchFAB header={header} />
+        <SearchFAB header={header} onClick={onClick} onChange={onChange} searching={searching} />
     </Paper>
 );
 
