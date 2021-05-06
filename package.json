@@ -35,7 +35,7 @@
         "redux-immutable": "^3.0.8",
         "redux-observable": "^0.12.2",
         "rxjs": "^5.0.0-rc.4",
-        "underscore": "^1.8.3"
+        "underscore": "^1.12.1"
     },
     "scripts": {
         "start": "react-scripts start",
